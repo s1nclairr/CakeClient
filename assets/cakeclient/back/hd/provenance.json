@@ -1,0 +1,43 @@
+{
+  "title": "Angel-wings",
+  "author": "Nobby76, based on Boooooop",
+  "license": "CC-BY-4.0",
+  "source": "https://sketchfab.com/3d-models/angel-wings-33a689cfaf33427286c8f98956f5cd1e",
+  "changes": "Split shoulder pivots from credited SkyDOS adaptation; converted indexed mesh; runtime cosmetic hinge animation. Licensed derivative KTX2 artwork decoded to PNG at native 512/768px; no fabricated 4K detail. Raven and Gold are colour variants of the same mesh.",
+  "parts": [
+    {
+      "side": 0,
+      "material": 0,
+      "vertices": 12685,
+      "triangles": 11342
+    },
+    {
+      "side": 0,
+      "material": 1,
+      "vertices": 1540,
+      "triangles": 2600
+    },
+    {
+      "side": 1,
+      "material": 0,
+      "vertices": 12616,
+      "triangles": 11354
+    },
+    {
+      "side": 1,
+      "material": 1,
+      "vertices": 1540,
+      "triangles": 2600
+    }
+  ],
+  "textures": {
+    "feather": [
+      800,
+      624
+    ],
+    "wing": [
+      1024,
+      1024
+    ]
+  }
+}

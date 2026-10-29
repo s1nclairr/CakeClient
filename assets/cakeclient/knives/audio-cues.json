@@ -1,0 +1,1479 @@
+{
+  "falchion": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_falchion_draw",
+        "source_event": "KnifeFalchion.draw"
+      }
+    ],
+    "idle": [],
+    "inspect": [
+      {
+        "at": 0,
+        "sound": "cs.knife_falchion_inspect",
+        "source_event": "legacy inspection start"
+      }
+    ],
+    "inspect2": [
+      {
+        "at": 0,
+        "sound": "cs.knife_falchion_inspect",
+        "source_event": "legacy inspection start"
+      }
+    ],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "kukri": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Turn"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "butterfly": {
+    "deploy": [
+      {
+        "at": 0.2,
+        "sound": "cs.bknife_draw01",
+        "source_event": "ButterflyKnife.draw01"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.bknife_draw02",
+        "source_event": "ButterflyKnife.draw02"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [
+      {
+        "at": 0.0,
+        "sound": "cs.bknife_look01_a",
+        "source_event": "ButterflyKnife.look01_a"
+      },
+      {
+        "at": 2.7,
+        "sound": "cs.bknife_look01_b",
+        "source_event": "ButterflyKnife.look01_b"
+      }
+    ],
+    "inspect2": [
+      {
+        "at": 0.033333,
+        "sound": "cs.bknife_look02_a",
+        "source_event": "ButterflyKnife.look02_a"
+      },
+      {
+        "at": 3.133333,
+        "sound": "cs.bknife_look02_b",
+        "source_event": "ButterflyKnife.look02_b"
+      }
+    ],
+    "inspect3": [
+      {
+        "at": 0.066667,
+        "sound": "cs.bknife_look03_a",
+        "source_event": "ButterflyKnife.look03_a"
+      },
+      {
+        "at": 3.46669,
+        "sound": "cs.bknife_look03_b",
+        "source_event": "ButterflyKnife.look03_b"
+      }
+    ],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "navaja": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.gypsy_draw_01",
+        "source_event": "KnifeNavaja.Draw"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ]
+  },
+  "canis": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.166667,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.033333,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "ursus": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [
+      {
+        "at": 1.3,
+        "sound": "cs.ursus_flip_01",
+        "source_event": "Knife.Ursus.Flip.01"
+      },
+      {
+        "at": 1.833333,
+        "sound": "cs.ursus_flip_02",
+        "source_event": "Knife.Ursus.Flip.02"
+      },
+      {
+        "at": 2.366667,
+        "sound": "cs.ursus_flip_03",
+        "source_event": "Knife.Ursus.Flip.Loop"
+      },
+      {
+        "at": 3.0,
+        "sound": "cs.ursus_flip_03",
+        "source_event": "Knife.Ursus.Flip.Loop"
+      },
+      {
+        "at": 3.6,
+        "sound": "cs.ursus_flip_03",
+        "source_event": "Knife.Ursus.Flip.Loop"
+      }
+    ],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "default_t": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "tactical": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large.Teeth"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "karambit": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Small"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "m9": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large.Teeth"
+      },
+      {
+        "at": 0.033333,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Turn"
+      },
+      {
+        "at": 0.3,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Turn"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "default_ct": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "outdoor": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "cord": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Med"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "flip": {
+    "deploy": [],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "gut": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "stiletto": {
+    "deploy": [
+      {
+        "at": 0.166667,
+        "sound": "cs.stilletto_draw_01",
+        "source_event": "Knife.Stilleto.Draw.01"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "talon": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Small"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "skeleton": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Small"
+      }
+    ],
+    "deploy2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Small"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "push": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_push_draw",
+        "source_event": "KnifePush.Draw.Light"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.233333,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Turn"
+      },
+      {
+        "at": 0.333333,
+        "sound": "cs.knife_push_draw",
+        "source_event": "KnifePush.Draw.Light"
+      },
+      {
+        "at": 0.533333,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Turn"
+      }
+    ],
+    "idle": [],
+    "inspect": [
+      {
+        "at": 0,
+        "sound": "cs.knife_push_lookat_start",
+        "source_event": "legacy inspection start"
+      },
+      {
+        "at": 0.233331,
+        "sound": "cs.knife_push_lookat_start",
+        "source_event": "KnifePush.Inspect.Swish"
+      },
+      {
+        "at": 3.266637,
+        "sound": "cs.knife_push_lookat_start",
+        "source_event": "KnifePush.Inspect.Swish"
+      }
+    ],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "KnifePush.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "KnifePush.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "KnifePush.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "KnifePush.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "KnifePush.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "KnifePush.Swish.Light"
+      }
+    ]
+  },
+  "bayonet": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large"
+      },
+      {
+        "at": 0.100003,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "bowie": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_bowie_draw",
+        "source_event": "KnifeBowie.draw"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Gear"
+      },
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Draw.Large.Teeth"
+      }
+    ],
+    "idle": [],
+    "inspect": [
+      {
+        "at": 0,
+        "sound": "cs.knife_bowie_inspect_start",
+        "source_event": "legacy inspection start"
+      },
+      {
+        "at": 4.666692,
+        "sound": "cs.knife_bowie_inspect_end",
+        "source_event": "KnifeBowie.LookAtEnd"
+      }
+    ],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.033332,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  },
+  "css": {
+    "deploy": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_deploy",
+        "source_event": "Weapon_Knife.Deploy"
+      }
+    ],
+    "idle": [],
+    "idle2": [],
+    "inspect": [],
+    "inspect2": [],
+    "slash1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slash2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "stab": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "stabHit": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash2",
+        "source_event": "Weapon_Knife.Swish.Heavy"
+      }
+    ],
+    "slashHit1": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ],
+    "slashHit2": [
+      {
+        "at": 0.0,
+        "sound": "cs.knife_slash1",
+        "source_event": "Weapon_Knife.Swish.Light"
+      }
+    ]
+  }
+}

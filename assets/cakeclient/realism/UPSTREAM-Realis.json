@@ -1,0 +1,38 @@
+{
+  "game_versions": [
+    "1.21.11"
+  ],
+  "loaders": [
+    "iris",
+    "optifine"
+  ],
+  "environment": "unknown",
+  "id": "QKTGNJJz",
+  "project_id": "y5vfr9HA",
+  "author_id": "OZ8cztGP",
+  "featured": false,
+  "name": "Realis 1.2",
+  "version_number": "1.2",
+  "changelog": "Better Ender World and fix for forge version",
+  "changelog_url": null,
+  "date_published": "2026-10-03T23:48:51.982728Z",
+  "downloads": 1421,
+  "version_type": "release",
+  "status": "listed",
+  "requested_status": null,
+  "files": [
+    {
+      "id": "QImv7TVx",
+      "hashes": {
+        "sha1": "c710a0be523cd13f20a55fe3ef1fed44e6d89ce1",
+        "sha512": "9c0f93d8e53d346d583e62442e064a7b1aebf11b801f3004bd9af2f4ba310f8d8ebcce475c30976a5427fe338d0786285365716fc424dd7d1346ffece457cc9c"
+      },
+      "url": "https://cdn.modrinth.com/data/y5vfr9HA/versions/QKTGNJJz/Realis_v1.2.zip",
+      "filename": "Realis_v1.2.zip",
+      "primary": true,
+      "size": 407360,
+      "file_type": null
+    }
+  ],
+  "dependencies": []
+}

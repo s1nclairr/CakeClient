@@ -1,0 +1,282 @@
+Visuals	Visuels	Визуальные
+Music	Musique	Музыка
+Cosmetics	Cosmétiques	Косметика
+Ambience	Ambiance	Атмосфера
+Fireflies	Lucioles	Светлячки
+Sky	Ciel	Небо
+Knives	Couteaux	Ножи
+Optics	Optique	Оптика
+Particles	Particules	Частицы
+Wings & Capes	Ailes et capes	Крылья и плащи
+Realistic Mode	Mode réaliste	Реализм
+Crosshair	Réticule	Прицел
+Combat Effects	Effets de combat	Эффекты боя
+Knife Materials	Matériaux des couteaux	Материалы ножей
+Knife Materials →	Matériaux des couteaux →	Материалы ножей →
+MODULES	MODULES	МОДУЛИ
+CUSTOMIZE	PERSONNALISEZ	НАСТРОЙТЕ
+Your atmosphere.	votre atmosphère.	Свою атмосферу.
+Save and close	Enregistrer et fermer	Сохранить и закрыть
+Sound on	Sons activés	Звук включён
+Sound off	Sons coupés	Звук выключен
+Menu : 	Menu : 	Меню : 
+ · edit	 · modifier	 · изменить
+Share cosmetics : 	Partage cosmétiques : 	Показывать косметику : 
+Language · 	Langue · 	Язык · 
+yes	oui	да
+no	non	нет
+visible	affichée	видима
+hidden	masquée	скрыта
+Intensity	Intensité	Интенсивность
+Speed	Vitesse	Скорость
+Color	Couleur	Цвет
+Fixed color	Couleur fixe	Постоянный цвет
+Rainbow enabled	Arc-en-ciel activé	Радуга включена
+Size	Taille	Размер
+Scale	Échelle	Масштаб
+Gap	Écartement	Промежуток
+Thickness	Épaisseur	Толщина
+Back cosmetic	Cosmétique de dos	Косметика на спине
+Animation speed	Vitesse d’animation	Скорость анимации
+Realistic rendering	Rendu réaliste	Реалистичный рендер
+Custom crosshair	Réticule personnalisé	Свой прицел
+Hit color	Couleur au coup	Цвет при ударе
+Death effects	Effets de mort	Эффекты смерти
+Tint strength	Force de la teinte	Сила окраски
+Blade trails	Traînées de lame	Следы клинка
+Trail lifetime	Durée de la traînée	Время следа
+Balanced	Équilibré	Сбалансированный
+High	Élevé	Высокий
+Ultra	Ultra	Ультра
+Angel	Ange	Ангел
+Dragon	Dragon	Дракон
+Bat	Chauve-souris	Летучая мышь
+Dark Angel	Ange sombre	Тёмный ангел
+Phoenix	Phénix	Феникс
+Parrot	Perroquet	Попугай
+Blue Butterfly	Papillon bleu	Синяя бабочка
+Monarch	Monarque	Монарх
+Fairy	Fée	Фея
+Slime	Slime	Слизь
+Astral Cape	Cape astrale	Астральный плащ
+Royal Cape	Cape royale	Королевский плащ
+Arctic Cape	Cape arctique	Арктический плащ
+Classic	Classique	Классика
+Dot	Point	Точка
+Ring	Anneau	Кольцо
+Chevron	Chevron	Шеврон
+Diamond	Diamant	Ромб
+Brackets	Crochets	Скобки
+T-Cross	Croix en T	Т-прицел
+Orbit	Orbite	Орбита
+Ascension	Ascension	Вознесение
+Soul Rift	Faille d’âme	Разлом души
+Crystal Shatter	Éclats de cristal	Осколки кристалла
+Supernova	Supernova	Сверхновая
+Cyber Fade	Disparition cyber	Киберисчезновение
+Density	Densité	Плотность
+Global density	Densité globale	Общая плотность
+Flight speed	Vitesse de vol	Скорость полёта
+Spawn radius	Rayon d'apparition	Радиус появления
+Glow	Éclat	Свечение
+Natural flight paths	Trajectoires naturelles	Естественные траектории
+Try in game	Aperçu en jeu	Проверить в игре
+Try the real effect	Essayer le véritable effet	Проверить эффект
+Open a world to try	Ouvrez un monde pour essayer	Откройте мир для проверки
+Try in game · 6 s	Essayer en jeu · 6 s	Проверить в игре · 6 с
+Available in a world	Disponible dans un monde	Доступно в мире
+Galaxy	Galaxie	Галактика
+Aurora	Aurore	Северное сияние
+Black hole	Trou noir	Чёрная дыра
+Waves	Vagues	Волны
+Stars	Étoiles	Звёзды
+Hue	Teinte	Оттенок
+Brightness	Luminosité	Яркость
+Saturation	Saturation	Насыщенность
+Wind	Vent	Ветер
+Duration	Durée	Длительность
+Distance	Distance	Расстояние
+Height	Hauteur	Высота
+In front of you	Devant vous	Перед вами
+Lower	Plus bas	Ниже
+Higher	Plus haut	Выше
+Previous phrase	Phrase précédente	Предыдущая строка
+Next phrase	Phrase suivante	Следующая строка
+Simultaneous groups	Groupes simultanés	Групп одновременно
+Global sync	Synchro globale	Общая синхронизация
+Reset correction	Réinitialiser la correction	Сбросить поправку
+Restart detection	Relancer la détection	Повторить поиск
+Calibrate this phrase now	Caler cette phrase maintenant	Синхронизировать эту строку
+One fixed position	Une position fixe	Фиксированная позиция
+Placement demo · 6 s	Démo du placement · 6 s	Проверка размещения · 6 с
+Gentle · 25 %	Léger · 25 %	Слабый · 25 %
+Balanced · 45 %	Équilibré · 45 %	Средний · 45 %
+Cinematic · 70 %	Cinématique · 70 %	Кино · 70 %
+Native game resolution	Rendu à la résolution du jeu	Разрешение игры
+The menus and HUD stay sharp.	Les menus et le HUD restent nets.	Меню и интерфейс остаются чёткими.
+Place the panel in front of me	Poser le panneau devant moi	Разместить панель передо мной
+Panel distance	Distance de pose	Дистанция панели
+3D panel size	Taille du panneau 3D	Размер 3D-панели
+Classic menu size	Taille du menu classique	Размер обычного меню
+Clouds : 	Nuages : 	Облака : 
+Minecraft clouds: yes	Nuages Minecraft : oui	Облака Minecraft: да
+Minecraft clouds: no	Nuages Minecraft : non	Облака Minecraft: нет
+Sakura petals	Pétales de sakura	Лепестки сакуры
+Light points	Points de lumière	Светящиеся точки
+Subtle embers	Braises discrètes	Тлеющие искры
+Light snow	Neige légère	Лёгкий снег
+Golden pollen	Pollen doré	Золотая пыльца
+Purple comets	Comètes violettes	Фиолетовые кометы
+Viewmodel size	Taille de la vue	Размер вида рук
+Gesture speed	Vitesse des gestes	Скорость движений
+Collection · 22 knives	Collection · 22 couteaux	Коллекция · 22 ножа
+Hold G: spinning	Maintenir G : rotations	Удерживайте G: вращение
+Left click: alternating cuts	Clic gauche : coupes alternées	ЛКМ: чередующиеся удары
+Right click: stab	Clic droit : estoc	ПКМ: колющий удар
+G: inspection	G : inspection	G: осмотр
+Inspection	Inspection	Осмотр
+CS sounds : 	Sons CS : 	Звуки CS : 
+Exposure	Exposition	Экспозиция
+Contact shadows	Ombres de contact	Контактные тени
+Light bloom	Bloom lumineux	Свечение света
+Soft vignette	Vignette douce	Мягкая виньетка
+Natural	Naturel	Естественный
+Cinema	Cinéma	Кино
+Moonlight	Clair de lune	Лунный свет
+Performance	Performance	Производительность
+Render distance	Distance de rendu	Дальность прорисовки
+Entity distance	Distance des entités	Дальность сущностей
+Simulation	Simulation	Симуляция
+Frame limit	Limite d’images	Лимит кадров
+Minecraft particles	Particules Minecraft	Частицы Minecraft
+All	Toutes	Все
+Reduced	Réduites	Уменьшено
+Minimal	Minimales	Минимум
+Unlimited	Illimitée	Без ограничений
+Restore my settings	Rétablir mes réglages	Восстановить настройки
+Reduce Cake effects : 	Alléger les effets Cake : 	Упростить эффекты Cake : 
+Fast leaves : 	Feuilles rapides : 	Быстрая листва : 
+Entity shadows : 	Ombres des entités : 	Тени сущностей : 
+Native occlusion : 	Occlusion native : 	Затенение Minecraft : 
+Potato 8×8 textures : 	Textures Potato 8×8 : 	Текстуры 8×8 : 
+Render limit : 	Limiter le rendu : 	Ограничить рендер : 
+Sky fog : 	Brume sur le ciel : 	Туман неба : 
+Fog start	Début de la brume	Начало тумана
+Opacity	Opacité	Непрозрачность
+Tint blend	Mélange de la teinte	Смешивание цвета
+Effective visibility : 	Visibilité effective : 	Видимость : 
+Quantity	Quantité	Количество
+Visual size	Taille visuelle	Видимый размер
+Players only	Joueurs uniquement	Только игроки
+Living entities	Entités vivantes	Живые сущности
+Visual margin	Marge visuelle	Отступ контура
+Visible outlines	Contours visibles	Видимые контуры
+Selection range	Portée de sélection	Дистанция выбора
+V: select player in view	V : choisir le joueur dans la vue	V: выбрать игрока в прицеле
+Sword required : 	Épée requise : 	Требуется меч : 
+Hotbar size	Taille de la hotbar	Размер панели предметов
+Background opacity	Opacité du fond	Непрозрачность фона
+Selection color	Couleur de la sélection	Цвет выбранной ячейки
+Move card with mouse	Déplacer la carte à la souris	Перетащить карточку мышью
+Reset position	Réinitialiser la position	Сбросить позицию
+Card size	Taille de la carte	Размер карточки
+Artwork : 	Pochette : 	Обложка : 
+Mini VU meter : 	Mini VU-mètre : 	Мини-визуализатор : 
+Spotify on PC	Spotify sur le PC	Spotify на ПК
+Orbs	Orbes	Сферы
+Hearts	Cœurs	Сердца
+Bubbles	Bulles	Пузыри
+Petals	Pétales	Лепестки
+Light dust	Poussière lumineuse	Светящаяся пыль
+Prisms	Prismes	Призмы
+Weak	Faible	Слабый
+Strong	Marqué	Сильный
+Apply selection	Appliquer la sélection	Применить выбор
+1080p preview · actual textures and models	Aperçu 1080p · textures et modèles réels	Предпросмотр 1080p · текстуры и модели
+The current pack stays active for this item.	Le pack actuel reste actif pour cet objet.	Для этого предмета остаётся текущий набор.
+Obsidian	Obsidienne	Обсидиан
+Crystal	Cristal	Кристалл
+Gold	Doré	Золотой
+Purple	Violet	Фиолетовый
+LOCKED · PRO / PREMIUM	VERROUILLÉ · PRO / PREMIUM	ЗАКРЫТО · PRO / PREMIUM
+Adjustable temporal blur, applied before the interface.	Un flou temporel réglable, appliqué avant l'interface.	Настраиваемое размытие движения перед интерфейсом.
+Free flight through the scenery, independent of the player.	Un vol libre dans le décor. Aucun déplacement attaché au joueur.	Свободный полёт в мире независимо от игрока.
+Place the panel in the world and walk around it.	Posez le panneau dans le monde, puis déplacez-vous autour.	Разместите панель в мире и обходите её.
+Animated sky rendered on the GPU.	Une ambiance de ciel calculée directement sur la carte graphique.	Анимированное небо с рендером на видеокарте.
+Light particles with a bounded budget.	Quelques particules légères, avec un budget limité.	Лёгкие частицы с ограниченным количеством.
+Word groups placed in front, left and right.	Des groupes de mots répartis devant vous, à gauche et à droite.	Группы слов перед вами, слева и справа.
+Textured CS models, only while holding a sword.	Modèles CS texturés, uniquement avec une épée.	Текстурированные модели CS только с мечом.
+Bloom, contact shadows and photographic colors.	Bloom, ombres de contact et couleurs photographiques.	Свечение, контактные тени и фотографические цвета.
+Reduce distances, particles and expensive effects.	Réduisez les distances, les particules et les effets coûteux.	Уменьшайте дальность, частицы и тяжёлые эффекты.
+Fog distance, density and color.	Distance, densité et couleur du brouillard.	Дистанция, плотность и цвет тумана.
+A subtle trail behind your movement.	Une trace légère derrière vos déplacements.	Лёгкий след за вашим движением.
+Ground circles on each jump.	Des cercles au sol à chaque saut.	Круги на земле при прыжке.
+F5: select a target and direct movement.	F5 : cible explicite et déplacement dirigé.	F5: выбор цели и направленное движение.
+Visible entity outlines.	Contours visuels des entités visibles.	Контуры видимых сущностей.
+Customize background, slots, selection and dimensions.	Fonds, cases, sélection et dimensions personnalisables.	Настройка фона, ячеек, выделения и размеров.
+Ninja, Sahur, Amogus and an imported LDraw Lego figure.	Ninja, Sahur, Amogus et figurine Lego importée depuis LDraw.	Ниндзя, Сахур, Амогус и фигурка Lego из LDraw.
+Music artwork and progress in a movable card.	Ta musique, sa pochette et sa progression dans une carte déplaçable.	Обложка и прогресс музыки в перемещаемой карточке.
+Bright bursts after confirmed damage.	Éclats lumineux après un coup confirmé.	Световые вспышки после подтверждённого урона.
+Subtle ambient particles in the world.	Une ambiance de particules discrète dans le décor.	Ненавязчивые частицы в мире.
+Independent PvP textures, applied without restarting.	Textures PvP indépendantes, appliquées sans redémarrer.	Отдельные текстуры PvP без перезапуска.
+Move the camera for 6 seconds.	Bougez la caméra pendant 6 secondes.	Двигайте камерой в течение 6 секунд.
+Your previous settings are restored afterwards.	À la fin, vos réglages précédents sont rétablis et le menu revient.	В конце вернутся прежние настройки и меню.
+1080p when the game runs at 1920 × 1080. No downsampling. Cost depends on your GPU.	1080p si le jeu est en 1920 × 1080. Aucun sous-échantillonnage. Le coût dépend de votre carte graphique.	1080p при разрешении игры 1920 × 1080. Без уменьшения. Нагрузка зависит от видеокарты.
+At most 24 insects; distant ones fade gradually.	24 insectes maximum. Les plus éloignés s'effacent progressivement.	Не более 24 насекомых. Дальние плавно исчезают.
+Fireflies keep their world position. Walk past them freely.	Les lucioles conservent leur place dans le monde. Vous pouvez les dépasser sans les tirer derrière vous.	Светлячки сохраняют позицию в мире и не следуют за вами.
+Alt Gr toggles the panel. Shift + Alt Gr moves it in front of you. Both sides stay readable.	Alt Gr masque ou réaffiche le panneau. Maj + Alt Gr le replace devant vous. Le panneau reste lisible des deux côtés.	Alt Gr переключает панель. Shift + Alt Gr переносит её перед вами. Обе стороны читаемы.
+Walk around the panel, aim at a button and click. Hold click to adjust sliders.	Marchez, tournez autour du panneau, puis visez un bouton et cliquez. Les curseurs se règlent en maintenant le clic.	Обходите панель, наведитесь на кнопку и нажмите. Удерживайте кнопку мыши для ползунков.
+Light arcs in the scenery, without extra entities.	Des arcs lumineux dans le décor, sans entités supplémentaires.	Светящиеся дуги в мире без дополнительных сущностей.
+Exposure adapts to frame duration.	L'exposition est ajustée selon la durée de chaque image.	Экспозиция учитывает длительность кадра.
+The shader encountered an error. See latest.log.	Le shader a rencontré une erreur. Voir latest.log.	Ошибка шейдера. Подробности в latest.log.
+Bloom, depth-based local occlusion and color grading. Interface and lyrics stay sharp.	Bloom des zones lumineuses, occlusion locale à partir de la profondeur et étalonnage des couleurs. Interface et paroles restent nettes.	Свечение, затенение по глубине и цветокоррекция. Интерфейс и текст остаются чёткими.
+Limit rendering to skip chunks beyond the fog. Resolution stays unchanged.	Activez la limite de rendu pour dessiner moins de chunks au-delà du brouillard. La résolution reste inchangée.	Ограничьте рендер чанков за туманом. Разрешение сохраняется.
+The margin changes only the visible outline. Minecraft hitboxes and attack reach keep their normal size.	La marge règle le contour affiché. Les collisions et la portée des coups gardent leurs dimensions Minecraft.	Отступ меняет только контур. Коллизии и дальность удара сохраняют размеры Minecraft.
+Close the menu, look at a player and press V. Press V again to release. In F5, forward movement follows the target while the camera stays free.	Fermez le menu, regardez un joueur et pressez V. V à nouveau libère la cible. En F5, avancer vous dirige vers lui ; la souris conserve son orientation libre. Aucun déplacement sans votre touche de mouvement.	Закройте меню, посмотрите на игрока и нажмите V. Повторное V отпускает цель. В F5 движение вперёд направлено к цели, камера свободна.
+Triggered at takeoff. At most six circles, fading smoothly.	Déclenché au décollage. Six cercles maximum, avec disparition progressive.	При отрыве от земли. Не более шести кругов с плавным исчезновением.
+Background, slots and selection replaced. Items, counts and offhand preserved.	Fonds, cases et sélection remplacés · objets, quantités et main secondaire conservés.	Заменены фон, ячейки и выделение. Предметы, количество и вторая рука сохранены.
+Particles remain in the scenery. Shared batching and bounded counts preserve responsiveness.	Les particules restent dans le décor. Rendu groupé avec les autres effets et nombre limité pour préserver la fluidité.	Частицы остаются в мире. Общий рендер и ограничение количества снижают нагрузку.
+Spotify artwork, title, artist, progress and duration. Detected locally through Windows media controls; visible while paused.	Pochette Spotify, titre, artiste, progression et durée totale. Détection locale via les contrôles multimédias Windows ; la carte reste visible en pause.	Обложка Spotify, название, исполнитель, прогресс и длительность из медиасеанса Windows. Видно при паузе.
+Factory uses the original CS asset. The other materials are original Cake designs, available on every knife.	Factory utilise la texture CS d’origine. Les autres matériaux sont des créations Cake, disponibles sur chaque couteau.	Factory использует исходную текстуру CS. Другие материалы созданы Cake и доступны для каждого ножа.
+Realis lighting, animated water, wet surfaces and rain reflections. XsRealism 256x photographic textures. Requires more GPU power. Reflections depend on what the camera can see.	Éclairage Realis, eau animée, surfaces mouillées et reflets de pluie. Textures photo XsRealism 256x. Plus exigeant pour le GPU. Les reflets dépendent de la vue.	Свет Realis, анимированная вода, мокрые поверхности и отражения дождя. Фототекстуры XsRealism 256x. Требует мощной видеокарты. Отражения зависят от видимой сцены.
+Wings · Paul Fulham / MIT · 10 imported styles, 2 source meshes	Ailes · Paul Fulham / MIT · 10 styles importés, 2 modèles sources	Крылья · Paul Fulham / MIT · 10 стилей, 2 исходные модели
+Premium visual studio · configure your experience	Studio visuel Premium · configurez votre expérience	Визуальная студия Premium · настройте свой стиль
+Disabled · enable to apply shader and 256x textures	Désactivé · activez pour appliquer le shader et les textures 256x	Выключено · включите шейдер и текстуры 256x
+Applying lighting and textures…	Application de l’éclairage et des textures…	Применение освещения и текстур…
+Realis + XsRealism 256x active	Realis + XsRealism 256x actifs	Realis + XsRealism 256x активны
+Previous shader restored	Shader précédent rétabli	Предыдущий шейдер восстановлен
+Could not apply realism · see latest.log	Impossible d’appliquer le réalisme · voir latest.log	Не удалось применить реализм · см. latest.log
+Realistic mode unavailable · see latest.log	Mode réaliste indisponible · voir latest.log	Реализм недоступен · см. latest.log
+Silent Aura	Silent Aura	Silent Aura
+V: activate / stop	V : activer / arrêter	V: включить / выключить
+Attack range	Portée d’attaque	Дальность атаки
+Aims and hits for you. Your view stays yours.	Vise et frappe pour vous. Votre caméra reste libre.	Целится и атакует за вас. Камера остаётся вашей.
+Aims and hits for you. Your view stays yours. Press V to activate or stop. Selects the nearest visible player in range and attacks at full cooldown.	Vise et frappe pour vous, caméra libre. V active ou arrête les attaques. Choisit le joueur visible le plus proche à portée et attend la recharge des coups.	Целится и атакует, не меняя камеру. V включает или выключает атаки. Выбирает ближайшего видимого игрока в пределах дальности и ждёт восстановления атаки.
+Reapply realism	Réappliquer le réalisme	Применить реализм заново
+Settings	Réglages	Настройки
+General settings	Réglages généraux	Общие настройки
+System	Système	Система
+Atmosphere	Atmosphère	Атмосфера
+Combat	Combat	Бой
+Changes save automatically	Les modifications sont enregistrées automatiquement	Изменения сохраняются автоматически
+Select a look. Tune the details. Make it yours.	Choisissez une ambiance et ajustez les détails.	Выберите стиль и настройте детали.
+Choose your wings	Choisissez vos ailes	Выберите крылья
+Appearance	Apparence	Внешний вид
+Luminous contour	Contour lumineux	Светящийся контур
+Shoulder height	Hauteur aux épaules	Высота у плеч
+Preview in F5 · 6 s	Aperçu en F5 · 6 s	Предпросмотр F5 · 6 с
+Visual mood	Ambiance visuelle	Визуальный стиль
+Render quality	Qualité du rendu	Качество рендера
+Natural light	Lumière naturelle	Естественный свет
+Dreamscape	Onirique	Мир грёз
+Bloom	Halo lumineux	Свечение
+Rain & puddles	Pluie et flaques	Дождь и лужи
+Apply look	Appliquer le style	Применить стиль
+A subtle halo, layered feathers and a slower, flowing wingbeat. Preview the real model from behind.	Un halo discret, des plumes affinées et un battement plus doux. Prévisualisez le modèle de dos.	Мягкий ореол, тонкие перья и плавные взмахи. Посмотрите модель со спины.
+Photographic 256x materials, surface relief, animated water and wet reflections. Select a mood, then apply. Rain follows the world's weather.	Matériaux photo 256x, relief, eau animée et reflets mouillés. Choisissez un style, puis appliquez. La pluie suit la météo du monde.	Фотоматериалы 256x, рельеф, анимированная вода и мокрые отражения. Выберите стиль и примените. Дождь зависит от погоды мира.
+Avatar & cosmetics →	Avatar et cosmétiques →	Аватар и косметика →
+Imported 3D models · author credits included	Modèles 3D importés · crédits inclus	Импортированные 3D-модели · авторы указаны
+Account / Astral Cape	Cape du compte / Astrale	Плащ аккаунта / Астральный
+Realis · atmospheric	Realis · atmosphérique	Realis · атмосфера
+MakeUp · cinematic	MakeUp · cinématique	MakeUp · кино
+MakeUp uses the author’s quality profiles. Advanced shader controls are available in Iris settings.	MakeUp utilise les profils de qualité de son auteur. Les réglages avancés sont accessibles dans les options Iris.	MakeUp использует профили качества автора. Дополнительные настройки доступны в Iris.

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "karambit",
+    "source_id": "karambit",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "butterfly",
+    "source_id": "butterfly",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "bayonet",
+    "source_id": "bayonet",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "bowie",
+    "source_id": "bowie",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "classic",
+    "source_id": "css",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "m9",
+    "source_id": "m9",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "flip",
+    "source_id": "flip",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "gut",
+    "source_id": "gut",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "huntsman",
+    "source_id": "tactical",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "falchion",
+    "source_id": "falchion",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "shadow",
+    "source_id": "push",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "navaja",
+    "source_id": "navaja",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "stiletto",
+    "source_id": "stiletto",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "ursus",
+    "source_id": "ursus",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "talon",
+    "source_id": "talon",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "skeleton",
+    "source_id": "skeleton",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "nomad",
+    "source_id": "canis",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "paracord",
+    "source_id": "cord",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "survival",
+    "source_id": "outdoor",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "kukri",
+    "source_id": "kukri",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "default_ct",
+    "source_id": "default_ct",
+    "type": "original CS2 source geometry and per-knife clips"
+  },
+  {
+    "id": "default_t",
+    "source_id": "default_t",
+    "type": "original CS2 source geometry and per-knife clips"
+  }
+]

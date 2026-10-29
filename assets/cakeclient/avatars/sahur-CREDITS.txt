@@ -1,0 +1,5 @@
+Tung tung tung sahur - Brainrot italian
+Foorleague2City (https://sketchfab.com/Foorleague2City)
+https://sketchfab.com/3d-models/tung-tung-tung-sahur-brainrot-italian-e73bef48b374447b8a282f06d69b00df
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: geometry decimated to 8000 triangles, source UV/material transferred; scaled for Cake. Source GLB bundled.

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ninja",
+    "name": "Ninja",
+    "source": "Big/glTF/Ninja.gltf",
+    "vertices": 3832,
+    "triangles": 5964,
+    "joints": 43,
+    "clips": [
+      "Idle",
+      "Walk"
+    ]
+  },
+  {
+    "id": "sahur",
+    "name": "Tung Tung Sahur",
+    "source": "https://sketchfab.com/3d-models/tung-tung-tung-sahur-brainrot-italian-e73bef48b374447b8a282f06d69b00df",
+    "vertices": 24000,
+    "triangles": 8000,
+    "joints": 1,
+    "clips": [
+      "Static",
+      "Static"
+    ],
+    "author": "Foorleague2City (https://sketchfab.com/Foorleague2City)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+  },
+  {
+    "id": "amogus",
+    "name": "Amogus",
+    "source": "https://sketchfab.com/3d-models/among-us-dumpy-f0c532f7ee5243b8acd1016bb3ce6532",
+    "vertices": 24000,
+    "triangles": 8000,
+    "joints": 1,
+    "clips": [
+      "Static",
+      "Static"
+    ],
+    "author": "casspog (https://sketchfab.com/casspog)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+  },
+  {
+    "id": "lego",
+    "name": "Lego \u00b7 LDraw",
+    "vertices": 10866,
+    "triangles": 3622,
+    "joints": 1,
+    "clips": [
+      "Static",
+      "Static"
+    ],
+    "author": "LDraw Parts Library",
+    "source": "https://www.ldraw.org/",
+    "license": "CCAL-2.0"
+  }
+]

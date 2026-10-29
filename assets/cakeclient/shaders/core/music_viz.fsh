@@ -1,0 +1,4 @@
+#version 330
+layout(std140) uniform MusicData {vec4 Data;vec4 Screen;};in vec2 texCoord;out vec4 fragColor;
+vec3 hsv(float h){vec3 p=abs(fract(vec3(h)+vec3(0.,2./3.,1./3.))*6.-3.);return mix(vec3(1.),clamp(p-1.,0.,1.),.55);}
+void main(){vec2 p=(texCoord-vec2(.5,.78))*vec2(Screen.x,1.);p/=.65+Data.w*.6;float a=0.;if(Data.z<.5){float x=p.x+.23;if(x<0.||x>.46||abs(p.y)>.12)discard;float column=floor(x/.014),gap=fract(x/.014);float height=Data.x*.09*(.35+.65*abs(sin(column*.41)));a=(1.-smoothstep(.68,.9,gap))*(1.-smoothstep(height,height+.004,abs(p.y)));}else if(Data.z<1.5){float radius=.042+Data.x*.05,d=abs(length(p)-radius);a=exp(-d*500.)*.95+exp(-d*100.)*.2;}else{float side=abs(p.x);if(side>.12||side<.03)discard;float height=Data.x*.08;a=1.-smoothstep(height,height+.004,abs(p.y));}if(a<.005)discard;fragColor=vec4(hsv(Data.y),clamp(a,0.,.9));}

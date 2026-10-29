@@ -1,0 +1,7 @@
+{
+  "author": "wardd (https://sketchfab.com/wardd)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/ugandan-knuckles-d6d71193eaf7498e81d84ec10eb2b576",
+  "title": "Ugandan Knuckles"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.

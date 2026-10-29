@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "cakeclient",
+  "version": "6.9.8+1.21.11",
+  "name": "Cake Client Free",
+  "description": "Cake visual client 6.9.8: detailed imported feather wings, 10 animated skies, 12 known-character avatars. Features depend on edition.",
+  "authors": [
+    "Cake"
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "fr.cake.client.CakeClient"
+    ]
+  },
+  "mixins": [
+    "cakeclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-resource-loader-v1": "*",
+    "fabric-networking-api-v1": "*"
+  },
+  "license": "MIT",
+  "icon": "assets/cakeclient/icon.png",
+  "jars": [
+    {
+      "file": "META-INF/jars/sodium-fabric-0.8.14+mc1.21.11.jar"
+    },
+    {
+      "file": "META-INF/jars/iris-fabric-1.10.8+mc1.21.11.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-api-base-1.0.5+4ebb5c083e.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-networking-api-v1-5.1.5+ae1e07683e.jar"
+    },
+    {
+      "file": "META-INF/jars/fabric-resource-loader-v1-1.0.10+78c8b4663e.jar"
+    }
+  ]
+}

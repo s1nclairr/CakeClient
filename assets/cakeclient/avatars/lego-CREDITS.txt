@@ -1,0 +1,5 @@
+This software uses the LDraw Parts Library — https://www.ldraw.org/
+Imported minifigure parts, not generated approximations. CCAL 2.0; original per-part headers retained.
+Changes: assembled, triangulated, scaled and converted to AVM2.
+Mirror: https://github.com/gkjohnson/ldraw-parts-library/tree/1f24cac1821b9a86a5a84cd3a40291aad24679b3
+LEGO is a trademark of the LEGO Group; no affiliation.

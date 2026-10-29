@@ -1,0 +1,1 @@
+Wings models and textures by Paul Fulham (pau101), MIT. https://github.com/pau101/Wings commit 174929878d09490b012dbfa4e8d23d56f02b5add. Geometry and original UV imported from ModelWingsAvian / Insectoid. Cake port adds cosmetic animation.

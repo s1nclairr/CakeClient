@@ -1,0 +1,7 @@
+{
+  "author": "spidey2099 (https://sketchfab.com/spidey2099)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/shrek-6a6218ee53084c45aa878073b9b92ace",
+  "title": "Shrek"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.

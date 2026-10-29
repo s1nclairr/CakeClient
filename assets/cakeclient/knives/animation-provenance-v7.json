@@ -1,0 +1,2292 @@
+[
+  {
+    "model": "karambit",
+    "source_id": "karambit",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/karambit.cs2.animation.json",
+    "source_sha256": "a104bb19e9768ef312fc930363e09dd697cedf22382172a189cfb931a6d28b2e",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/karambit.cs2.skin",
+    "geometry_sha256": "57065d1da70d27a0f4e04570921f936e5bea37be33bbdf690a6a75d097afccb0",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_karambit",
+      "inspect": "lookat01_karambit",
+      "deploy": "draw_karambit",
+      "slash1": "light_miss1_karambit",
+      "slash2": "light_miss2_karambit",
+      "stab": "heavy_miss1_karambit",
+      "idle2": "idle2_karambit",
+      "stabHit": "heavy_hit1_karambit",
+      "slashHit1": "light_hit1_karambit",
+      "slashHit2": "light_hit2_karambit"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.766679,
+        3.433357
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "144a910801e6ed069503f9838ead3dfa7f02d6f4ad2290cd8c6ac6e4d055c41d",
+    "parts": 1,
+    "triangles": 13938,
+    "minecraft_hand_retarget": {
+      "karambit": "inspection palm towards source index knuckle / ring",
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "butterfly",
+    "source_id": "butterfly",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/butterfly.cs2.animation.json",
+    "source_sha256": "57493ce4fea65333d67057626c9a4c099a61f4d5782dd7861a41b8d77d3a810e",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/butterfly.cs2.skin",
+    "geometry_sha256": "e8202a1c5b5c4cd09754f0a2f78fa3f2bbe1c380723e700a12f4c755035c5cb9",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "inspect3",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_butterfly",
+      "inspect": "lookat01_butterfly",
+      "deploy": "draw_butterfly",
+      "slash1": "light_miss1_butterfly",
+      "slash2": "light_miss2_butterfly",
+      "stab": "heavy_miss1_butterfly",
+      "inspect2": "lookat02_butterfly",
+      "inspect3": "lookat03_butterfly",
+      "deploy2": "draw2_butterfly",
+      "idle2": "idle2_butterfly",
+      "stabHit": "heavy_hit1_butterfly",
+      "slashHit1": "light_hit1_butterfly",
+      "slashHit2": "light_hit2_butterfly"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.033333,
+        2.7
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.433333,
+        3.0999999999999996
+      ],
+      "inspect3": [
+        1.766679,
+        3.433357
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "13172139a89e9fdac44ac293b2bc71b4ed7cd8076d26478f1154d7ebd0d37ca5",
+    "parts": 4,
+    "triangles": 11996,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "bayonet",
+    "source_id": "bayonet",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/bayonet.cs2.animation.json",
+    "source_sha256": "af93bc73a270eaeb81afdc3084c2afc72a8b8cbc89b4e4b0bab9de41b4185b76",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/bayonet.cs2.skin",
+    "geometry_sha256": "f96300564979b92c256ac3cb4e7661dd74952591e1670e60204f77b50f23299b",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_bayonet",
+      "inspect": "lookat01_bayonet",
+      "deploy": "draw_bayonet",
+      "slash1": "light_miss1_bayonet",
+      "slash2": "light_miss2_bayonet",
+      "stab": "heavy_miss1_bayonet",
+      "idle2": "idle2_bayonet",
+      "stabHit": "heavy_hit1_bayonet",
+      "slashHit1": "light_hit1_bayonet",
+      "slashHit2": "light_hit2_bayonet"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.066666
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "ee5625af9230dd7073e7b4bfc76cd671d4f140024eb1bdd2f15e480d77d45374",
+    "parts": 1,
+    "triangles": 2202,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "bowie",
+    "source_id": "bowie",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/bowie.cs2.animation.json",
+    "source_sha256": "c968cb08bdfbad91fc0cd5c02cead75eefb92fa0d5714b7a13dab6504867ea05",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/bowie.cs2.skin",
+    "geometry_sha256": "777c50e5b8860a33c47a9a8942b8693bdcd7f5b4ffde9f616f0bf444be18c5cf",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_bowie",
+      "inspect": "lookat01_bowie",
+      "deploy": "draw_bowie",
+      "slash1": "light_miss1_bowie",
+      "slash2": "light_miss2_bowie",
+      "stab": "heavy_miss1_bowie",
+      "stabHit": "heavy_hit1_bowie",
+      "slashHit1": "light_hit1_bowie",
+      "slashHit2": "light_hit2_bowie"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.600009,
+        4.6333590000000004
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "94a3e0b402b4f2b186c6c72249620c306e134118f76d86f033c506e4ecbc1e74",
+    "parts": 1,
+    "triangles": 18068,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "classic",
+    "source_id": "css",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/css.cs2.animation.json",
+    "source_sha256": "3d7e07a1483ab689338f421d895ff0dbdd73c414fb7788bab15c9e40685ffb47",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/css.cs2.skin",
+    "geometry_sha256": "32d29a3fea6b8af3b255dd8736d3be88c04b9ef98a841ecb7e7fd190a3599ffd",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_css",
+      "inspect": "lookat01_css",
+      "deploy": "draw_css",
+      "slash1": "light_miss1_css",
+      "slash2": "light_miss2_css",
+      "stab": "heavy_miss1_css",
+      "inspect2": "lookat02_css",
+      "idle2": "idle2_css",
+      "stabHit": "heavy_hit1_css",
+      "slashHit1": "light_hit1_css",
+      "slashHit2": "light_hit2_css"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.466679,
+        3.100026
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "c991c61934aae2ae6e825d0f8dba52de0938686177a00be7211c4f6c37d5abe6",
+    "parts": 1,
+    "triangles": 1226,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "m9",
+    "source_id": "m9",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/m9.cs2.animation.json",
+    "source_sha256": "98310156e5762aba464b54f473a9077d4e7e3a04d2a2b3cf7ab0811b1c5a9775",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/m9.cs2.skin",
+    "geometry_sha256": "021330079d81457f9981368907574816c137e4c14d5d582cc181da2d624ae098",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_m9",
+      "inspect": "lookat01_m9",
+      "deploy": "draw_m9",
+      "slash1": "light_miss1_m9",
+      "slash2": "light_miss2_m9",
+      "stab": "heavy_miss1_m9",
+      "idle2": "idle2_m9",
+      "stabHit": "heavy_hit1_m9",
+      "slashHit1": "light_hit1_m9",
+      "slashHit2": "light_hit2_m9"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "0be23ff601ec3e4e61ab09378e43a990bc1b0efcb609fcc3a5829d6fb8839cea",
+    "parts": 1,
+    "triangles": 10124,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "flip",
+    "source_id": "flip",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/flip.cs2.animation.json",
+    "source_sha256": "88085de609f9175f9d5a5d2b4c84852a5e1ada5233eed3c808b89bf1a0bd9052",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/flip.cs2.skin",
+    "geometry_sha256": "c8434907e405fda3dfb3ab5da8bba29c3947aad17fb10d194beef6770192e030",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_flip",
+      "inspect": "lookat01_flip",
+      "deploy": "draw_flip",
+      "slash1": "light_miss1_flip",
+      "slash2": "light_miss2_flip",
+      "stab": "heavy_miss1_flip",
+      "idle2": "idle2_flip",
+      "stabHit": "heavy_hit1_flip",
+      "slashHit1": "light_hit1_flip",
+      "slashHit2": "light_hit2_flip"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.3,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "6130075605e1880f26e10b2b0f003ecfeaa977676c4b1cc6a80dbac1268e05a1",
+    "parts": 2,
+    "triangles": 3232,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "gut",
+    "source_id": "gut",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/gut.cs2.animation.json",
+    "source_sha256": "016f8f8488e7647873987bab754161142978670c22fa6d7dfb9e5666d20f692a",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/gut.cs2.skin",
+    "geometry_sha256": "650a7ba71fd8624adc30d50673546ab8942a66b5a06c1966ea4a34d966fec29f",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_gut",
+      "inspect": "lookat01_gut",
+      "deploy": "draw_gut",
+      "slash1": "light_miss1_gut",
+      "slash2": "light_miss2_gut",
+      "stab": "heavy_miss1_gut",
+      "idle2": "idle2_gut",
+      "stabHit": "heavy_hit1_gut",
+      "slashHit1": "light_hit1_gut",
+      "slashHit2": "light_hit2_gut"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.066666
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "57f9c3c13d038ccbd43db213bde8b104f5b12e6390728c718e62fbaa3a1a7ff0",
+    "parts": 1,
+    "triangles": 12004,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "huntsman",
+    "source_id": "tactical",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/tactical.cs2.animation.json",
+    "source_sha256": "bada028f1bff558f3fc3e7e8eb790ec9f1dc0c0d3bad289e82aa076541c7c1c2",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/tactical.cs2.skin",
+    "geometry_sha256": "949b0373abbae0ab1d1e92f84ffe8ffea52e3bcbe936330bfd19682b31e59796",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_tactical",
+      "inspect": "lookat01_tactical",
+      "deploy": "draw_tactical",
+      "slash1": "light_miss1_tactical",
+      "slash2": "light_miss2_tactical",
+      "stab": "heavy_miss1_tactical",
+      "idle2": "idle2_tactical",
+      "stabHit": "heavy_hit1_tactical",
+      "slashHit1": "light_hit1_tactical",
+      "slashHit2": "light_hit2_tactical"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.066666
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "1f818cbda4458b34815485624f0cfcfdbc02c4b7a3184ba6683fc9ba7ad53f93",
+    "parts": 1,
+    "triangles": 16010,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "falchion",
+    "source_id": "falchion",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/falchion.cs2.animation.json",
+    "source_sha256": "571ac2131581f6bd911d851fbf65d4a897813c006a20cd05e30fc1f4f6b6b13e",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/falchion.cs2.skin",
+    "geometry_sha256": "b957de1a2af69f166a4d3f15b0d468d91808904ffb0581253a48dc85bbe0aab3",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_falchion",
+      "inspect": "lookat01_falchion",
+      "deploy": "draw_falchion",
+      "slash1": "light_miss1_falchion",
+      "slash2": "light_miss2_falchion",
+      "stab": "heavy_miss1_falchion",
+      "inspect2": "lookat02_falchion",
+      "stabHit": "heavy_hit1_falchion",
+      "slashHit1": "light_hit1_falchion",
+      "slashHit2": "light_hit2_falchion"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.666676,
+        4.800027
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.333341,
+        5.033362
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "cbb88ee52a307903916dded0313827ffe3c6993178460be5ae8468d957ad73f2",
+    "parts": 2,
+    "triangles": 10343,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "shadow",
+    "source_id": "push",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/push.cs2.animation.json",
+    "source_sha256": "e15a7fbf577ad199e76e67a16cb54886fc2ea1f3cd7efe04300feaa35f873480",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/push.cs2.skin",
+    "geometry_sha256": "5a768f0c37ca5926df9adfad5cf2d0d6e3b8547e3ecb7c65eb8432b64630fdf3",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_push",
+      "inspect": "lookat01_push",
+      "deploy": "draw_push",
+      "slash1": "light_miss1_push",
+      "slash2": "light_miss2_push",
+      "stab": "heavy_miss1_push",
+      "stabHit": "heavy_hit1_push",
+      "slashHit1": "light_hit1_push",
+      "slashHit2": "light_hit2_push"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        0.866659,
+        3.0999719999999997
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "8b5c20bd594912cf0e6369acd37b16947a9d2c1bd27a7a010185fb0e5752f293",
+    "parts": 2,
+    "triangles": 10800,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 180,
+      "shadow_palm": "wrist to middle knuckle, per frame",
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": "identical support fist/left dagger view translation at frame edges"
+    }
+  },
+  {
+    "model": "navaja",
+    "source_id": "navaja",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/navaja.cs2.animation.json",
+    "source_sha256": "25f294ebee72f3153cb357b13061a400681d5d608b5df1e824a372b8d51c866e",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/navaja.cs2.skin",
+    "geometry_sha256": "9d3c81a44a038a7e8b1e784f9a3b1f6d3f9519bbb8d1ac51ae0a414431b34228",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_navaja",
+      "inspect": "lookat01_navaja",
+      "deploy": "draw_navaja",
+      "slash1": "light_miss1_navaja",
+      "slash2": "light_miss2_navaja",
+      "stab": "heavy_miss1_navaja",
+      "idle2": "idle2_navaja",
+      "stabHit": "heavy_miss1_navaja",
+      "slashHit1": "light_hit1_navaja",
+      "slashHit2": "light_hit2_navaja"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "b9099741c338d12db3c4be5958368acf3e07eb73b8b6cd99412b5ea3cec3469c",
+    "parts": 2,
+    "triangles": 6958,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "stiletto",
+    "source_id": "stiletto",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/stiletto.cs2.animation.json",
+    "source_sha256": "a062b4edf97e2d267c6b0b5da5a8e909116660e94ba24605470e4e680c8e1082",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/stiletto.cs2.skin",
+    "geometry_sha256": "edf903966de5aaf3de8ea2a56c4b4880987adfdec9d8ea1d5a91bac90f964d36",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_stiletto",
+      "inspect": "lookat01_stiletto",
+      "deploy": "draw_stiletto",
+      "slash1": "light_miss1_stiletto",
+      "slash2": "light_miss2_stiletto",
+      "stab": "heavy_miss1_stiletto",
+      "inspect2": "lookat02_stiletto",
+      "idle2": "idle2_stiletto",
+      "stabHit": "heavy_hit1_stiletto",
+      "slashHit1": "light_hit1_stiletto",
+      "slashHit2": "light_hit2_stiletto"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        2.366667,
+        3.4333340000000003
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.333333,
+        4.6
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "7ab4df2f1d3adb876ac2075aed4c3c1a1d4a9fd118916d0b1fb3340e88950f8c",
+    "parts": 2,
+    "triangles": 8003,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "ursus",
+    "source_id": "ursus",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/ursus.cs2.animation.json",
+    "source_sha256": "6367eaac640b2def8d17092175a47e4220d5cacd6ad456097ede55844a6b2ee7",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/ursus.cs2.skin",
+    "geometry_sha256": "6d55827b6ab40cd2b3ab44e839297b6edc12117fe9b4ec9eb5bae1d32f4c824e",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_ursus",
+      "inspect": "lookat01_ursus",
+      "deploy": "draw_ursus",
+      "slash1": "light_miss1_ursus",
+      "slash2": "light_miss2_ursus",
+      "stab": "heavy_miss1_ursus",
+      "inspect2": "lookat02_ursus",
+      "deploy2": "draw2_ursus",
+      "idle2": "idle2_ursus",
+      "stabHit": "heavy_hit1_ursus",
+      "slashHit1": "light_hit1_ursus",
+      "slashHit2": "light_hit2_ursus"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.9,
+        4.133333
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "776ded90428d68d358502931e4e230eb4534c7cba3361ab3f27bdc6009857f34",
+    "parts": 1,
+    "triangles": 5117,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "talon",
+    "source_id": "talon",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/talon.cs2.animation.json",
+    "source_sha256": "4a4e684ba087e54f4f83c57ec4de122e2055fc93e6b1d73005124e96b24821cd",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/talon.cs2.skin",
+    "geometry_sha256": "51ef0e4af2408d4a4ae5cb3203c31e57a1d80dae6857f9dc7012419768d4db95",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_talon",
+      "inspect": "lookat01_talon",
+      "deploy": "draw_talon",
+      "slash1": "light_miss1_talon",
+      "slash2": "light_miss2_talon",
+      "stab": "heavy_miss1_talon",
+      "inspect2": "lookat02_talon",
+      "idle2": "idle2_talon",
+      "stabHit": "heavy_hit1_talon",
+      "slashHit1": "light_hit1_talon",
+      "slashHit2": "light_hit2_talon"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.766679,
+        3.400023
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        0.766667,
+        1.833334
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "da082f52918a0b22fc5ff51b9473c119a9921ededc13070974bbabfe9dc10131",
+    "parts": 1,
+    "triangles": 6824,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "skeleton",
+    "source_id": "skeleton",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/skeleton.cs2.animation.json",
+    "source_sha256": "2a7bb966e0612c6c94f3b732924dc79580e9fa791663fde296a4e5e0f5632988",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/skeleton.cs2.skin",
+    "geometry_sha256": "7e3acbf19ae1d05924c79baedece948135d2327f837c1e2bab3246045fab8d4f",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_skeleton",
+      "inspect": "lookat01_skeleton",
+      "deploy": "draw_skeleton",
+      "slash1": "light_miss1_skeleton",
+      "slash2": "light_miss2_skeleton",
+      "stab": "heavy_miss1_skeleton",
+      "inspect2": "lookat02_skeleton",
+      "deploy2": "draw2_skeleton",
+      "idle2": "idle2_skeleton",
+      "stabHit": "heavy_hit1_skeleton",
+      "slashHit1": "light_hit1_skeleton",
+      "slashHit2": "light_hit2_skeleton"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.199993,
+        5.566636
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        0.966681,
+        1.400021
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "4a6d59b081ccae99b924749039f348c408bfa34667d1148757455ef16d5fd7b6",
+    "parts": 1,
+    "triangles": 4366,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "nomad",
+    "source_id": "canis",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/canis.cs2.animation.json",
+    "source_sha256": "634b151dd1f321b3fb451a1bf522fb91efc84878887f177f62a6633074183832",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/canis.cs2.skin",
+    "geometry_sha256": "62fd1c465d629dad9933a64c6c8ceeacdc0fac81a3ac16184bd3ea90300eb427",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_canis",
+      "inspect": "lookat01_canis",
+      "deploy": "draw_canis",
+      "slash1": "light_miss1_canis",
+      "slash2": "light_miss2_canis",
+      "stab": "heavy_miss1_canis",
+      "inspect2": "lookat02_canis",
+      "deploy2": "draw2_canis",
+      "idle2": "idle2_canis",
+      "stabHit": "heavy_hit1_canis",
+      "slashHit1": "light_hit1_canis",
+      "slashHit2": "light_hit2_canis"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.266662,
+        7.199971000000001
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.333333,
+        5.066666
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "5f87954055af5a72f31a0b3febf05929d61afb8242383d7e9a123187440c598b",
+    "parts": 1,
+    "triangles": 8234,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "paracord",
+    "source_id": "cord",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/cord.cs2.animation.json",
+    "source_sha256": "b82ebb8d7fc5125e8a4bd7cb5e21a21a6541d73bb8c3cc0161a92d72e26d6035",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/cord.cs2.skin",
+    "geometry_sha256": "27336cc978d67f723c9e26d399ca353c9c4bfc556aa2eb5a0f71c4ace3a5abed",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_cord",
+      "inspect": "lookat01_cord",
+      "deploy": "draw_cord",
+      "slash1": "light_miss1_cord",
+      "slash2": "light_miss2_cord",
+      "stab": "heavy_miss1_cord",
+      "inspect2": "lookat02_cord",
+      "deploy2": "draw2_cord",
+      "idle2": "idle2_cord",
+      "stabHit": "heavy_hit1_cord",
+      "slashHit1": "light_hit1_cord",
+      "slashHit2": "light_hit2_cord"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        5.0
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.566667,
+        3.233334
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "f8ead0ce639bac6309bf0501a1f9a0efa9ddf91ff6b16d6da607426d168e86f5",
+    "parts": 1,
+    "triangles": 5894,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "survival",
+    "source_id": "outdoor",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/outdoor.cs2.animation.json",
+    "source_sha256": "ea46b0663747b472b6b4142cdf5d5c69d99f3c3110b9c12bd29c692876459ea7",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/outdoor.cs2.skin",
+    "geometry_sha256": "7472b96e2d6e79a35b67523e1ade02b7b6ae38303875666b2f182cbe794a3a06",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_outdoor",
+      "inspect": "lookat01_outdoor",
+      "deploy": "draw_outdoor",
+      "slash1": "light_miss1_outdoor",
+      "slash2": "light_miss2_outdoor",
+      "stab": "heavy_miss1_outdoor",
+      "inspect2": "lookat02_outdoor",
+      "deploy2": "draw2_outdoor",
+      "idle2": "idle2_outdoor",
+      "stabHit": "heavy_hit1_outdoor",
+      "slashHit1": "light_hit1_outdoor",
+      "slashHit2": "light_hit2_outdoor"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.333333,
+        3.866666
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "inspect2": [
+        1.333333,
+        5.066666
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "77b4266099e8b2d4d9f968e0b9a36dd608150ed4d9d45fde39eb453b0a92e940",
+    "parts": 2,
+    "triangles": 13508,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "kukri",
+    "source_id": "kukri",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/kukri.cs2.animation.json",
+    "source_sha256": "329927287233769e89cd986958d2e4a2a9fd134cb5deed1bca60dbc6fc3e5bb4",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/kukri.cs2.skin",
+    "geometry_sha256": "34136faa2845b78044368b04e230aa5c97c6eeb5e66a2c1095ad9fb1397debf6",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle1_kukri",
+      "inspect": "lookat01_kukri",
+      "deploy": "draw_kukri",
+      "slash1": "light_miss1_kukri",
+      "slash2": "light_miss2_kukri",
+      "stab": "heavy_miss1_kukri",
+      "deploy2": "draw2_kukri",
+      "idle2": "idle2_kukri",
+      "stabHit": "heavy_hit1_kukri",
+      "slashHit1": "light_hit1_kukri",
+      "slashHit2": "light_hit2_kukri"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        3.466682,
+        6.333361
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "deploy2": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "b9f6df6e705e8997481fd00ebc294b27f325cb1e7b63b1571cb3265fd874ef9a",
+    "parts": 1,
+    "triangles": 8874,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "default_ct",
+    "source_id": "default_ct",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/default_ct.cs2.animation.json",
+    "source_sha256": "67bd670f815c9d99f1c04e4e903c0f16f5c9445516c6061c0ef6c0dac6b19783",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/default_ct.cs2.skin",
+    "geometry_sha256": "ec360f0b94e760a5d8eb3b84f7cbc62d47ce5283d4e7fbe6db1e9bab99b968fe",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle_knife",
+      "inspect": "lookat01_knife",
+      "deploy": "draw_knife",
+      "slash1": "light_miss1_knife",
+      "slash2": "light_miss2_knife",
+      "stab": "heavy_miss1_knife",
+      "idle2": "idle2_knife",
+      "stabHit": "heavy_hit1_knife",
+      "slashHit1": "light_hit1_knife",
+      "slashHit2": "light_hit2_knife"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.366667,
+        5.066667000000001
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "6c46029d93c4c53716236faa005c22639f6ae473cc953d1c6efc01412756a590",
+    "parts": 1,
+    "triangles": 5458,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  },
+  {
+    "model": "default_t",
+    "source_id": "default_t",
+    "repository": "https://github.com/zh667/ScCsgoKnives",
+    "commit": "fd1082b388c0274132181ab2621520819a48a12c",
+    "animation_source": "src/ScCsgoKnives/AnimationData/default_t.cs2.animation.json",
+    "source_sha256": "3a037575c51accec599bf636b6f97c810341a3dc063bbf1b2cf2f3debc156c54",
+    "geometry_source": "src/ScCsgoKnives/AnimationData/default_t.cs2.skin",
+    "geometry_sha256": "1cc7491873d9452862403688a1e6b43046f3860dbadcd62bda78b9ccdc69ac06",
+    "aliases": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "source_clips": {
+      "idle": "idle_default_t",
+      "inspect": "lookat01_default_t",
+      "deploy": "draw_default_t",
+      "slash1": "light_miss1_default_t",
+      "slash2": "light_miss2_default_t",
+      "stab": "heavy_miss1_default_t",
+      "idle2": "idle2_default_t",
+      "stabHit": "heavy_hit1_default_t",
+      "slashHit1": "light_hit1_default_t",
+      "slashHit2": "light_hit2_default_t"
+    },
+    "inspect_windows": {
+      "idle": [
+        -1.0,
+        -1.0
+      ],
+      "inspect": [
+        1.366667,
+        5.066667000000001
+      ],
+      "deploy": [
+        -1.0,
+        -1.0
+      ],
+      "slash1": [
+        -1.0,
+        -1.0
+      ],
+      "slash2": [
+        -1.0,
+        -1.0
+      ],
+      "stab": [
+        -1.0,
+        -1.0
+      ],
+      "idle2": [
+        -1.0,
+        -1.0
+      ],
+      "stabHit": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit1": [
+        -1.0,
+        -1.0
+      ],
+      "slashHit2": [
+        -1.0,
+        -1.0
+      ]
+    },
+    "camera_space": "Source inches -> Minecraft camera metres",
+    "trajectory_compression": false,
+    "format": "CKM7",
+    "sha256": "4cb9b8c5eab89ef58a548e33c6e4365a41ddc099c1ca3237a6ddea74907fafdc",
+    "parts": 1,
+    "triangles": 2026,
+    "minecraft_hand_retarget": {
+      "karambit": null,
+      "grip_reference": "source wrist and middle knuckle, per animation frame",
+      "pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "left_pommel_offset_metres": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "right_shadow_grip_correction_degrees": 0,
+      "shadow_palm": null,
+      "support_hand": "source near contact; fixed guard otherwise; camera framing keeps support fist visible",
+      "left_shadow_framing": null
+    }
+  }
+]

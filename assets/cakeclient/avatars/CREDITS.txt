@@ -1,0 +1,4 @@
+Quaternius - Ultimate Monsters - CC0 1.0
+https://quaternius.com/packs/ultimatemonsters.html
+Original meshes, UVs, textures and animation clips retained. Converted to AVM2 for Cake.
+Archive mirror: https://herni-studio-tokoupim.cz/asset-knihovna/balik/quaternius-ultimatemonsters/

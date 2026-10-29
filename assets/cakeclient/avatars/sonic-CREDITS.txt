@@ -1,0 +1,7 @@
+{
+  "author": "a.shevchuk (https://sketchfab.com/alex.shevchuk)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/sonic-the-hedgehog-3dc98d5dc4b446b6b6ac13d5301aa5b8",
+  "title": "Sonic the Hedgehog"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.

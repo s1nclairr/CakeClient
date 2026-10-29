@@ -1,0 +1,307 @@
+[
+  {
+    "id": "classic",
+    "display": "Classic",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "ae05fcf63d1ebb68128841bd925ec0558701f3fe511df97bbdc940be3bf47cfc"
+  },
+  {
+    "id": "m9",
+    "display": "M9 Bayonet",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "07a19e10d029a34cd00fb24763d9fc459428495e039826a1517c7ed37db4d5e9"
+  },
+  {
+    "id": "flip",
+    "display": "Flip Knife",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "butterfly",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "inspect3",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "c36450d194a698188c4283e2faa02c70ac24ac1b2683ae33019884d816a76f58"
+  },
+  {
+    "id": "gut",
+    "display": "Gut Knife",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bowie",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "1fb73c819959d0effb81937b6bb0b37aeb587cc659d3afd248365b0e66c7d5a3"
+  },
+  {
+    "id": "huntsman",
+    "display": "Huntsman",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bowie",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "6eb6a1a6fdc6554f048240f32c53084af944ef7cbae018992b9f0c85ff4621ca"
+  },
+  {
+    "id": "falchion",
+    "display": "Falchion",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "karambit",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "e244b15242288efb93dcb97e3396e6a0ccaf519f4c5e0d845a57fea12bb52eab"
+  },
+  {
+    "id": "shadow",
+    "display": "Shadow Daggers",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "butterfly",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "inspect2",
+      "inspect3",
+      "deploy2",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "2742087d723e001aac3630b3de167e4c5408a235a3589cbe3d83318ce205e81f"
+  },
+  {
+    "id": "navaja",
+    "display": "Navaja",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "d907b4c0e4ad995847e5a5e14419817d204660f53b7197fdd1c7d5c3e1887aad"
+  },
+  {
+    "id": "stiletto",
+    "display": "Stiletto",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "44c8b7dcd741cc371525a23a3ec3a4aa58a884fbdaa15baf3f2bf0ad09311606"
+  },
+  {
+    "id": "ursus",
+    "display": "Ursus",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bowie",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "95c1aba9e104ccba1de2bdffcf20f5955e855d4d72d19bc1727749a11f5094f0"
+  },
+  {
+    "id": "talon",
+    "display": "Talon",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "karambit",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "25451e6d05dfddcddb95ea9dbc891ebb1d2535dfe5b12162bed557df667644dc"
+  },
+  {
+    "id": "skeleton",
+    "display": "Skeleton",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "ae05fcf63d1ebb68128841bd925ec0558701f3fe511df97bbdc940be3bf47cfc"
+  },
+  {
+    "id": "nomad",
+    "display": "Nomad",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bowie",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "f5cac5862da7cb6ac0cf64fc2bc10e34703fbda6496a9378c63b9fefba209102"
+  },
+  {
+    "id": "paracord",
+    "display": "Paracord",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bayonet",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "ae05fcf63d1ebb68128841bd925ec0558701f3fe511df97bbdc940be3bf47cfc"
+  },
+  {
+    "id": "survival",
+    "display": "Survival",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "bowie",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "6e40292909c7783da14032f46295a5657dea428179219b3ef8da82bc7fed9ef0"
+  },
+  {
+    "id": "kukri",
+    "display": "Kukri",
+    "type": "Original Cake Client silhouette, source-based animation retarget",
+    "animation_reference": "karambit",
+    "clips": [
+      "idle",
+      "inspect",
+      "deploy",
+      "slash1",
+      "slash2",
+      "stab",
+      "idle2",
+      "stabHit",
+      "slashHit1",
+      "slashHit2"
+    ],
+    "sha256": "c72a744b0bf52db60119364b8061835cf1c329858cf2b20dfedf8092cce1c978"
+  }
+]

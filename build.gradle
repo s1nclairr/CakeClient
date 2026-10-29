@@ -1,0 +1,53 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version '0.11+9.2.1'
+}
+
+group = 'fr.cake.client'
+version = '6.9.8+1.21.11'
+
+archivesBaseName = 'cakeclient'
+
+minecraft {
+    version = '1.21.11'
+
+    channels.release = 'intermediary'
+
+    dependency {
+        export = true
+        yarnmapping = 'intermediary'
+    }
+}
+
+dependencies {
+    modImplementation 'net.fabricmc:fabric-api:1.21.11+1.0.0'
+
+    // JSON handling (Gson is already used in the mod sources)
+    modImplementation 'com.google.code.gson:gson:2.10.1'
+
+    // Fabric Loader for Minecraft 1.21.11 (compatible with Loom 0.11+9.2.1)
+    modImplementation 'net.fabricmc.fabric-loader:fabric-loader:0.17.8+1.21.11'
+
+    // Networking API
+    modImplementation 'net.fabricmc:fabric-networking-api:1.+'
+
+    // Resource loader
+    modImplementation 'net.fabricmc:fabric-resource-loader-v1:1.+'
+
+    // Mixin support (compatible with the mixins.json compatibilityLevel JAVA_21)
+    modImplementation 'org.spongepowered:mixin:0.8.5'
+}
+
+processors {
+    'net.fabricmc:fabric-mod-evolution:1.+'
+}
+
+// Mixin configuration
+mixins {
+    'cakeclient': 'cakeclient.mixins.json'
+}
+
+// Java source/target compatibility (mod targets Java 21)
+java {
+    sourceCompatibility = JavaLanguageVersion.of(21)
+    targetCompatibility = JavaLanguageVersion.of(21)
+}

@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "package": "fr.cake.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftMixin",
+    "LevelRendererMixin",
+    "KeyboardMixin",
+    "MouseMixin",
+    "ParticlesMixin",
+    "CloudsMixin",
+    "HandMixin",
+    "KnifeRenderMixin",
+    "RenderTypeInvoker",
+    "MouseMotionAccess",
+    "FogMixin",
+    "HotbarMixin",
+    "TabBadgeMixin",
+    "AvatarSkinMixin",
+    "HitParticleMixin",
+    "PvpResourceMixin",
+    "ModelCubesAccess",
+    "CrosshairMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

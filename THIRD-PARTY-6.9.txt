@@ -1,0 +1,49 @@
+Cake Client Premium 6.9 / Minecraft 1.21.11
+
+WINGS: Existing geometry and original textures by Paul Fulham / pau101, Wings, MIT.
+https://github.com/pau101/Wings
+commit 174929878d09490b012dbfa4e8d23d56f02b5add
+Ten original texture styles on two source geometries. Geometry / UV ported from
+ModelWingsAvian and ModelWingsInsectoid. Cosmetic animation adapted by Cake.
+Original source and MIT license are included in the embedded source project.
+Three cape artworks are original Cake designs.
+
+SHADER: Realis v1.2 by fr1ks, MIT. https://modrinth.com/shader/realis
+Original metadata, license and adaptation notes inside the bundled shader ZIP.
+Legacy GLSL headers changed to 130 and ftransform expanded for Iris translation.
+Screen-space reflections cannot reflect objects outside the camera view.
+
+TEXTURES: XsRealism-256x, darkyboys, MIT.
+https://github.com/darkyboys/XsRealism-256x
+commit f6568ec6722fe8f0b0f21cf3179a31fc0fea9b69
+175 photographic texture images; oversized images resampled to 256px per frame.
+Original license and credits inside the resource pack ZIP.
+
+IRIS 1.10.8 / Minecraft 1.21.11: LGPL-3.0, unmodified nested mod with original notices.
+https://github.com/IrisShaders/Iris
+SODIUM 0.8.14 / Minecraft 1.21.11: PolyForm Shield 1.0, unmodified nested mod.
+https://github.com/CaffeineMC/sodium
+Sources and license links remain in each nested mod's metadata.
+
+KNIFE FINISHES: Factory uses the pre-existing original CS assets described in
+CS_ASSETS_NOTICE.txt. Thirteen additional original Cake material designs are
+baked over original albedo detail using the metallic surface mask. They are
+not official Valve skins. No knife grip or source animation clip was changed.
+
+6.9.2: Wing textures upsampled with Lanczos for softer edges; feather slab depth reduced, attachment raised and scale reduced. Original geometry and texture artwork retained.
+
+6.9.4: MakeUp Ultra Fast 9.6 by JavierGC / contributors, LGPL-3.0-or-later. https://github.com/javiergcim/MakeUpUltraFast . Bundled shader ZIP is unchanged and contains source and LICENSE. Original Modrinth release metadata included in assets/cakeclient/realism/UPSTREAM-MakeUp.json. Account cape textures are provided by Minecraft at runtime; no account-cape ownership is granted or modified.
+
+6.9.5 Detailed wings: Angel-wings by Nobby76 (@nobbyt76), based on Boooooop (@boooop), CC BY 4.0.
+https://sketchfab.com/3d-models/angel-wings-33a689cfaf33427286c8f98956f5cd1e
+https://creativecommons.org/licenses/by/4.0/
+GLB derivative from SkyDOS, credited at https://9meta.vssa.com/credits.html .
+Changes: source mesh converted, mirrored shoulder pivots, cosmetic wingbeat; Raven/Gold colour variants.
+Texture artwork decoded from the licensed derivative at native 512/768px. No claim of native 4K textures.
+Additional selectable avatars are existing imported Quaternius models; existing CC0 credits retained.
+
+Dragon, Dragon_Evolved and Alpaking wing-only meshes: Quaternius Ultimate Monsters, CC0 1.0. Original Flying_Idle animation and skinning retained; body geometry removed, scaled and shoulder-aligned. https://quaternius.com/packs/ultimatemonsters.html
+
+6.9.7: imported known characters, CC BY 4.0. Per-model source, author and changes in assets/cakeclient/avatars/*-CREDITS.txt. Hello Neighbor: ModusInteractive walk geometry/rig plus BillCipher987654321 texture artwork. Shrek: spidey2099. Ugandan Knuckles: wardd. Pocket Shrek Donkey: Neut2000. GLBs mirrored from Objaverse; source GLBs retained. Models/characters are not Cake originals or endorsements.
+
+6.9.8: Sonic by a.shevchuk, Patrick and Luigi by Yanez Designs, Walking Mario 64 by Fazbeards. CC BY 4.0. Per-model credits and original URLs in avatars/*-CREDITS.txt. Source meshes, materials and clips imported; tiling UVs baked for correct texture sampling. Wing posture adapted at runtime; six preview images render the imported geometry.

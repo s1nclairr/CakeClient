@@ -1,0 +1,337 @@
+{
+  "open": {
+    "sounds": [
+      "cakeclient:open"
+    ]
+  },
+  "close": {
+    "sounds": [
+      "cakeclient:close"
+    ]
+  },
+  "tap": {
+    "sounds": [
+      "cakeclient:tap"
+    ]
+  },
+  "knife_flip": {
+    "sounds": [
+      "cakeclient:knife_flip"
+    ]
+  },
+  "knife_draw": {
+    "sounds": [
+      "cakeclient:knife_draw"
+    ]
+  },
+  "knife_swing": {
+    "sounds": [
+      "cakeclient:knife_swing"
+    ]
+  },
+  "cs.bknife_backstab01": {
+    "sounds": [
+      "cakeclient:cs/bknife_backstab01"
+    ]
+  },
+  "cs.bknife_backstab02": {
+    "sounds": [
+      "cakeclient:cs/bknife_backstab02"
+    ]
+  },
+  "cs.bknife_draw01": {
+    "sounds": [
+      "cakeclient:cs/bknife_draw01"
+    ]
+  },
+  "cs.bknife_draw02": {
+    "sounds": [
+      "cakeclient:cs/bknife_draw02"
+    ]
+  },
+  "cs.bknife_look01_a": {
+    "sounds": [
+      "cakeclient:cs/bknife_look01_a"
+    ]
+  },
+  "cs.bknife_look01_b": {
+    "sounds": [
+      "cakeclient:cs/bknife_look01_b"
+    ]
+  },
+  "cs.bknife_look02_a": {
+    "sounds": [
+      "cakeclient:cs/bknife_look02_a"
+    ]
+  },
+  "cs.bknife_look02_b": {
+    "sounds": [
+      "cakeclient:cs/bknife_look02_b"
+    ]
+  },
+  "cs.bknife_look03_a": {
+    "sounds": [
+      "cakeclient:cs/bknife_look03_a"
+    ]
+  },
+  "cs.bknife_look03_b": {
+    "sounds": [
+      "cakeclient:cs/bknife_look03_b"
+    ]
+  },
+  "cs.knife_deploy": {
+    "sounds": [
+      "cakeclient:cs/knife_deploy"
+    ]
+  },
+  "cs.knife_deploy1": {
+    "sounds": [
+      "cakeclient:cs/knife_deploy1"
+    ]
+  },
+  "cs.knife_hit1": {
+    "sounds": [
+      "cakeclient:cs/knife_hit1"
+    ]
+  },
+  "cs.knife_hit2": {
+    "sounds": [
+      "cakeclient:cs/knife_hit2"
+    ]
+  },
+  "cs.knife_hit3": {
+    "sounds": [
+      "cakeclient:cs/knife_hit3"
+    ]
+  },
+  "cs.knife_hit4": {
+    "sounds": [
+      "cakeclient:cs/knife_hit4"
+    ]
+  },
+  "cs.knife_hit_01": {
+    "sounds": [
+      "cakeclient:cs/knife_hit_01"
+    ]
+  },
+  "cs.knife_hit_02": {
+    "sounds": [
+      "cakeclient:cs/knife_hit_02"
+    ]
+  },
+  "cs.knife_hit_03": {
+    "sounds": [
+      "cakeclient:cs/knife_hit_03"
+    ]
+  },
+  "cs.knife_hit_04": {
+    "sounds": [
+      "cakeclient:cs/knife_hit_04"
+    ]
+  },
+  "cs.knife_hit_05": {
+    "sounds": [
+      "cakeclient:cs/knife_hit_05"
+    ]
+  },
+  "cs.knife_hitwall1": {
+    "sounds": [
+      "cakeclient:cs/knife_hitwall1"
+    ]
+  },
+  "cs.knife_hitwall2": {
+    "sounds": [
+      "cakeclient:cs/knife_hitwall2"
+    ]
+  },
+  "cs.knife_hitwall3": {
+    "sounds": [
+      "cakeclient:cs/knife_hitwall3"
+    ]
+  },
+  "cs.knife_hitwall4": {
+    "sounds": [
+      "cakeclient:cs/knife_hitwall4"
+    ]
+  },
+  "cs.knife_slash1": {
+    "sounds": [
+      "cakeclient:cs/knife_slash1"
+    ]
+  },
+  "cs.knife_slash2": {
+    "sounds": [
+      "cakeclient:cs/knife_slash2"
+    ]
+  },
+  "cs.knife_stab": {
+    "sounds": [
+      "cakeclient:cs/knife_stab"
+    ]
+  },
+  "cs.knife_bowie_draw": {
+    "sounds": [
+      "cakeclient:cs/knife_bowie_draw"
+    ]
+  },
+  "cs.knife_bowie_inspect_end": {
+    "sounds": [
+      "cakeclient:cs/knife_bowie_inspect_end"
+    ]
+  },
+  "cs.knife_bowie_inspect_start": {
+    "sounds": [
+      "cakeclient:cs/knife_bowie_inspect_start"
+    ]
+  },
+  "cs.knife_falchion_catch": {
+    "sounds": [
+      "cakeclient:cs/knife_falchion_catch"
+    ]
+  },
+  "cs.knife_falchion_draw": {
+    "sounds": [
+      "cakeclient:cs/knife_falchion_draw"
+    ]
+  },
+  "cs.knife_falchion_idle": {
+    "sounds": [
+      "cakeclient:cs/knife_falchion_idle"
+    ]
+  },
+  "cs.knife_falchion_inspect": {
+    "sounds": [
+      "cakeclient:cs/knife_falchion_inspect"
+    ]
+  },
+  "cs.gypsy_draw_01": {
+    "sounds": [
+      "cakeclient:cs/gypsy_draw_01"
+    ]
+  },
+  "cs.knife_push_attack1_heavy_01": {
+    "sounds": [
+      "cakeclient:cs/knife_push_attack1_heavy_01"
+    ]
+  },
+  "cs.knife_push_attack1_heavy_02": {
+    "sounds": [
+      "cakeclient:cs/knife_push_attack1_heavy_02"
+    ]
+  },
+  "cs.knife_push_attack1_heavy_03": {
+    "sounds": [
+      "cakeclient:cs/knife_push_attack1_heavy_03"
+    ]
+  },
+  "cs.knife_push_attack1_heavy_04": {
+    "sounds": [
+      "cakeclient:cs/knife_push_attack1_heavy_04"
+    ]
+  },
+  "cs.knife_push_draw": {
+    "sounds": [
+      "cakeclient:cs/knife_push_draw"
+    ]
+  },
+  "cs.knife_push_lookat_end": {
+    "sounds": [
+      "cakeclient:cs/knife_push_lookat_end"
+    ]
+  },
+  "cs.knife_push_lookat_start": {
+    "sounds": [
+      "cakeclient:cs/knife_push_lookat_start"
+    ]
+  },
+  "cs.stilletto_draw_01": {
+    "sounds": [
+      "cakeclient:cs/stilletto_draw_01"
+    ]
+  },
+  "cs.stilletto_flip_01": {
+    "sounds": [
+      "cakeclient:cs/stilletto_flip_01"
+    ]
+  },
+  "cs.stilletto_flip_02": {
+    "sounds": [
+      "cakeclient:cs/stilletto_flip_02"
+    ]
+  },
+  "cs.stilletto_flip_03": {
+    "sounds": [
+      "cakeclient:cs/stilletto_flip_03"
+    ]
+  },
+  "cs.stilletto_flip_04": {
+    "sounds": [
+      "cakeclient:cs/stilletto_flip_04"
+    ]
+  },
+  "cs.ursus_catch_01": {
+    "sounds": [
+      "cakeclient:cs/ursus_catch_01"
+    ]
+  },
+  "cs.ursus_flip_01": {
+    "sounds": [
+      "cakeclient:cs/ursus_flip_01"
+    ]
+  },
+  "cs.ursus_flip_02": {
+    "sounds": [
+      "cakeclient:cs/ursus_flip_02"
+    ]
+  },
+  "cs.ursus_flip_03": {
+    "sounds": [
+      "cakeclient:cs/ursus_flip_03"
+    ]
+  },
+  "cs.ursus_flip_04": {
+    "sounds": [
+      "cakeclient:cs/ursus_flip_04"
+    ]
+  },
+  "cs.ursus_flip_05": {
+    "sounds": [
+      "cakeclient:cs/ursus_flip_05"
+    ]
+  },
+  "cs.widow_deploy_01": {
+    "sounds": [
+      "cakeclient:cs/widow_deploy_01"
+    ]
+  },
+  "cs.widow_lookat2_end": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_end"
+    ]
+  },
+  "cs.widow_lookat2_loop_02": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_loop_02"
+    ]
+  },
+  "cs.widow_lookat2_loop_03": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_loop_03"
+    ]
+  },
+  "cs.widow_lookat2_loop_04": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_loop_04"
+    ]
+  },
+  "cs.widow_lookat2_loop_05": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_loop_05"
+    ]
+  },
+  "cs.widow_lookat2_start": {
+    "sounds": [
+      "cakeclient:cs/widow_lookat2_start"
+    ]
+  }
+}

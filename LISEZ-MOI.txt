@@ -1,0 +1,91 @@
+CAKE CLIENT PREMIUM 6.9.4 — MINECRAFT JAVA 1.21.11 / JAVA 21
+
+INSTALLATION
+Installe Fabric Loader 0.18.4 ou plus récent pour Minecraft 1.21.11.
+Place uniquement CakeClient-Premium-6.9.4-MC1.21.11.jar dans mods.
+Retire les anciennes versions Cake. Iris 1.10.8 et Sodium 0.8.14 sont inclus :
+ne conserve pas une autre version incompatible de ces mods.
+Alt Gr ouvre le menu (touche modifiable dans le menu).
+Interface Cake dessinée en 1920 × 1080 avec texte anticrénelé.
+La résolution du jeu dépend toujours des options vidéo Minecraft.
+
+AJOUTS PREMIUM
+Cosmetics > Wings & Capes : 10 styles d’ailes importés de Wings (Paul Fulham,
+MIT), sur deux modèles sources aviaire/insecte, et 3 capes Cake. Réglages de
+taille et vitesse. Animation continue, attachée au joueur, visible en F5.
+Cosmetics > Knife Materials : Factory + 13 matériaux Cake sur les 22 couteaux.
+Ces 13 finitions sont des créations Cake, pas des skins officiels Valve.
+Traînées de lame activables, couleur et durée réglables. Uniquement pendant
+les actions des couteaux. Les poignées et clips d’animation existants sont conservés.
+Visuals > Crosshair : 8 réticules, taille, épaisseur, écartement et couleur.
+Visuals > Combat Effects : couleur après coup confirmé, intensité, 5 effets
+et transformations de mort (Ascension, Soul Rift, Crystal, Supernova, Cyber).
+Langue Cake par défaut : anglais. Le bouton Language en bas du menu fait
+cycler anglais / français / russe. La langue vanilla de Minecraft reste séparée.
+
+MODE RÉALISTE
+Visuals > Realistic Mode : Balanced / High / Ultra.
+Active le shader Realis 1.2 adapté à Iris, et le pack photographique
+XsRealism 256x (175 images). Eau animée, éclairage, pluie et surfaces mouillées.
+Les fichiers shader/resource pack sont installés automatiquement dans le jeu.
+Désactiver restaure le shader précédent et retire le pack réaliste de la sélection.
+L’effet suit la météo du monde ; il ne force pas la pluie sur le serveur.
+Les reflets sont calculés depuis les éléments visibles à l’écran, pas par ray tracing.
+Ce mode augmente la charge GPU : pas de promesse de FPS constants.
+Les autres shaders personnels sont à utiliser séparément du profil Realis.
+
+PARTAGE COSMÉTIQUE
+Le nouveau protocole partage aussi les ailes et capes. Pour les voir entre
+joueurs, il faut Cake 6.9 et le relais CakeClientRelay 1.3 sur le serveur Paper.
+Sans relais, le rendu local et le F5 fonctionnent, y compris en multijoueur.
+Le client lit les anciens états 6.8, mais les anciens clients ne lisent pas 6.9.
+
+CRÉDITS ET SOURCES
+Voir THIRD-PARTY-6.9.txt et CS_ASSETS_NOTICE.txt.
+META-INF/cakeclient-project.zip contient les sources éditables.
+Pour reconstruire : extrais ce ZIP, puis recopie les dossiers assets et META-INF/jars
+ainsi que fabric.mod.json et cakeclient.mixins.json depuis ce JAR dans src/main/resources.
+Rétablis ${version} dans fabric.mod.json si tu changes la version de compilation.
+Gradle 9.2.1, Java 21. Commande : gradle test build.
+
+VALIDATION
+74 tests automatiques réussis : anciens comportements, protocole cosmétique,
+hiérarchies d’ailes importées, langues, présence des 286 finitions et résolution
+maximale des images du pack réaliste.
+
+SILENT AURA — remplace Player Follow
+Dans Cosmetics > Silent Aura, active le module puis presse V en jeu pour
+armer ou arrêter les attaques. Aucun coup automatique avant activation par V.
+Vise et frappe les joueurs visibles les plus proches sans changer la caméra.
+Portée réglable de 2 à 3 mètres, plafonnée à la portée Minecraft.
+Attend la recharge des coups, ignore alliés, spectateurs et joueurs invisibles.
+Pause les attaques dans les menus, hors fenêtre active et pendant l’utilisation
+d’un objet. Changer de monde désarme le module. Fonctionne en F1 / F5.
+Tests automatisés des calculs de visée, limites de portée et déplacement inchangé.
+Le comportement PvP n’a pas été validé sur un serveur avec plusieurs joueurs.
+
+6.9.4: Reinstallation automatique du profil réaliste au démarrage, bouton Reapply realism et détail des erreurs. Ailes relevées de 24 cm, taille et épaisseur réduites, contours des textures adoucis. Normales des avatars renormalisées. Le défaut de skin signalé reste à identifier avec le modèle et le symptôme précis.
+
+6.9.4 — Présentation et rendu
+Menu opaque à six sections, modules groupés par usage, indicateur d’activité.
+Langue, sons, partage et touche de menu regroupés dans System > Settings.
+Wings & Capes : halo lumineux désactivable, hauteur réglable et aperçu F5
+de six secondes avec retour à la caméra précédente. Modèles Wings conservés.
+Realistic Mode : trois ambiances Natural light / Cinema / Dreamscape, qualité
+séparée, exposition, bloom et pluie/flaques réglables. Cliquez Apply look.
+113 matériaux disposent maintenant de cartes de normales, relief et surface
+dérivées des photos, pour le shader labPBR. Relief estimé, pas des scans physiques.
+Les FPS dépendent des réglages et de votre GPU. Les textures restent à 256px,
+l’interface est dessinée en 1920×1080 ; la résolution du jeu reste modifiable.
+
+Les nuages vanilla sont masqués quand un shader est actif pour éviter une double couche de nuages.
+
+6.9.4: Carte de profil cliquable et galerie d’avatars 3D avec vignettes.
+Sélecteur Realis / MakeUp Ultra Fast 9.6 (original LGPL-3.0-or-later).
+Les réglages pluie/bloom/exposition concernent Realis ; MakeUp emploie son profil
+de qualité et sa palette. Pour les réglages propres à MakeUp, utiliser les options Iris.
+Capes : 16 segments physiques amortis, avant/dos, côtés et épaisseur.
+La première cape utilise celle du compte Minecraft si elle est disponible,
+sinon le dessin Astral. Elle ne débloque pas une cape sur le compte Mojang.
+
+6.9.6 : ciel personnalisé sur toute la skybox, horizon et hémisphère inférieur inclus. Les surfaces du monde restent protégées par le test de profondeur.

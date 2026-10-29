@@ -1,0 +1,477 @@
+[
+  {
+    "id": 0,
+    "name": "Texture actuelle",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Minecraft / pack actif",
+    "license": "",
+    "source": ""
+  },
+  {
+    "id": 1,
+    "name": "Faithful 32x",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 2,
+    "name": "Faithful 64x",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 3,
+    "name": "Cake Violet · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 4,
+    "name": "Cake Rouge · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 5,
+    "name": "Cake Azur · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 6,
+    "name": "Cake Menthe · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 7,
+    "name": "Cake Or · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 8,
+    "name": "Cake Rose · Faithful",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "author": "Faithful / Cake",
+    "license": "Faithful License v4",
+    "source": "https://faithfulpack.net/"
+  },
+  {
+    "id": 9,
+    "name": "Void-Crystal 16x",
+    "items": [
+      0,
+      2
+    ],
+    "author": "An_0",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/void-crystal"
+  },
+  {
+    "id": 10,
+    "name": "CrystalCore",
+    "items": [
+      0,
+      2,
+      3
+    ],
+    "author": "MR_POPCORN_9234",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/crystalcore"
+  },
+  {
+    "id": 11,
+    "name": "ArshuSmpOverlay(Spear&Mace)",
+    "items": [
+      0,
+      1
+    ],
+    "author": "ArshuPac",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/pvp-texture-pack"
+  },
+  {
+    "id": 12,
+    "name": "Smoother End Crystals",
+    "items": [
+      0
+    ],
+    "author": "MasterofDeath",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/smoother-end-crystals"
+  },
+  {
+    "id": 13,
+    "name": "Mace to Windhammer",
+    "items": [
+      1
+    ],
+    "author": "Hisho",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/mace_to_windhammer"
+  },
+  {
+    "id": 14,
+    "name": "Mace to Greataxe",
+    "items": [
+      1
+    ],
+    "author": "Phanisment",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/mace-to-greataxe"
+  },
+  {
+    "id": 15,
+    "name": "Mjölnir Mace",
+    "items": [
+      1
+    ],
+    "author": "CapTommy",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/mjlnir-mace"
+  },
+  {
+    "id": 16,
+    "name": "Windswept Mace (2D+3D)",
+    "items": [
+      1
+    ],
+    "author": "Konci",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/windswept-mace"
+  },
+  {
+    "id": 17,
+    "name": "Realistic Mace 3D",
+    "items": [
+      1
+    ],
+    "author": "Rodger",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/real-mace"
+  },
+  {
+    "id": 18,
+    "name": "Mace PVP Essence",
+    "items": [
+      1
+    ],
+    "author": "O3kar",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/mace-pvp-essence"
+  },
+  {
+    "id": 19,
+    "name": "Furry fox totem",
+    "items": [
+      2
+    ],
+    "author": "Lub_Pozh",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/furry-fox-totem"
+  },
+  {
+    "id": 20,
+    "name": "MajorZwey's Better Obsidian",
+    "items": [
+      3
+    ],
+    "author": "MajorZwey",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/majorzweys-better-obsidian"
+  },
+  {
+    "id": 21,
+    "name": "Simple Bedrock and Obsidian",
+    "items": [
+      3
+    ],
+    "author": "GrungyDrake1672",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/simple-bedrock-and-obsidian"
+  },
+  {
+    "id": 22,
+    "name": "HGNYC's Obsidian Overlay",
+    "items": [
+      3
+    ],
+    "author": "WyFx",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/hopeobsidianoverlay"
+  },
+  {
+    "id": 23,
+    "name": "Anchor Indicator",
+    "items": [
+      4
+    ],
+    "author": "qvatt",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/anchor-indicator"
+  },
+  {
+    "id": 24,
+    "name": "Respawn Anchor Indicator",
+    "items": [
+      4
+    ],
+    "author": "O3kar",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/respawn-anchor-indicator"
+  },
+  {
+    "id": 25,
+    "name": "Totem Highlight",
+    "items": [
+      2
+    ],
+    "author": "themasterkitty",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/totem-highlight"
+  },
+  {
+    "id": 26,
+    "name": "Blinking Totem",
+    "items": [
+      2
+    ],
+    "author": "faker",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/blinking-totem"
+  },
+  {
+    "id": 27,
+    "name": "Verity Totem ENG",
+    "items": [
+      2
+    ],
+    "author": "Mr_Ars11",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/verity-totem-eng"
+  },
+  {
+    "id": 28,
+    "name": "CrystalCore - Totem",
+    "items": [
+      2
+    ],
+    "author": "MR_POPCORN_9234",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/crystalcore-totem"
+  },
+  {
+    "id": 29,
+    "name": "Totem of Yuri",
+    "items": [
+      2
+    ],
+    "author": "narehate",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/totem-of-yuri"
+  },
+  {
+    "id": 30,
+    "name": "Totem Cat Meme",
+    "items": [
+      2
+    ],
+    "author": "ZloydadaEF",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/totem-cat-meme"
+  },
+  {
+    "id": 31,
+    "name": "Fallen Paladin's Mace",
+    "items": [
+      1
+    ],
+    "author": "HackerCat17",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/fallen-paladins-mace"
+  },
+  {
+    "id": 32,
+    "name": "Maxwell of Undying",
+    "items": [
+      2
+    ],
+    "author": "obsidiannnnnn",
+    "license": "CC-BY-4.0",
+    "source": "https://modrinth.com/resourcepack/maxwell-of-undying"
+  },
+  {
+    "id": 33,
+    "name": "MxSxC1 End Crystal Beam Resource Pack",
+    "items": [
+      0
+    ],
+    "author": "mxsxc1",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/mxsxc1-end-crystal-beam-resource-pack"
+  },
+  {
+    "id": 34,
+    "name": "Miku End Crystal",
+    "items": [
+      0
+    ],
+    "author": "hxh.lucilfer",
+    "license": "CC-BY-4.0",
+    "source": "https://modrinth.com/resourcepack/miku-end-crystal"
+  },
+  {
+    "id": 35,
+    "name": "Levxys' Starlight 16x",
+    "items": [
+      0,
+      3,
+      4
+    ],
+    "author": "Levxys",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/levxys-starlight-16x"
+  },
+  {
+    "id": 36,
+    "name": "Strudelgame V2",
+    "items": [
+      0,
+      3
+    ],
+    "author": "Strudelgame",
+    "license": "CC-BY-4.0",
+    "source": "https://modrinth.com/resourcepack/strudelgame-v2"
+  },
+  {
+    "id": 37,
+    "name": "Xai's Invisible Crystals",
+    "items": [
+      0
+    ],
+    "author": "godsavexai",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/invisiblecrystals"
+  },
+  {
+    "id": 38,
+    "name": "Simple End Crystals",
+    "items": [
+      0
+    ],
+    "author": "TwerpishGuy",
+    "license": "CC-BY-4.0",
+    "source": "https://modrinth.com/resourcepack/simple-end-crystals"
+  },
+  {
+    "id": 39,
+    "name": "cpvp texture pack",
+    "items": [
+      0,
+      3,
+      4
+    ],
+    "author": "danilo677_",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/danilo677_"
+  },
+  {
+    "id": 40,
+    "name": "Blacksidian",
+    "items": [
+      3
+    ],
+    "author": "catekqq",
+    "license": "Apache-2.0",
+    "source": "https://modrinth.com/resourcepack/blacksidian"
+  },
+  {
+    "id": 41,
+    "name": "DrDonut Crystal",
+    "items": [
+      0
+    ],
+    "author": "erez43",
+    "license": "MIT",
+    "source": "https://modrinth.com/resourcepack/drdonut-crystal"
+  },
+  {
+    "id": 42,
+    "name": "Shiny End Crystals",
+    "items": [
+      0
+    ],
+    "author": "Hahchek",
+    "license": "CC-BY-4.0",
+    "source": "https://modrinth.com/resourcepack/shiny-end-crystals"
+  }
+]

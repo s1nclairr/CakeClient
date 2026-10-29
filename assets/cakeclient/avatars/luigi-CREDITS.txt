@@ -1,0 +1,7 @@
+{
+  "author": "Anthony Yanez (https://sketchfab.com/paulyanez)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/luigi-super-mario-bros-a79c8ef8419448c39f61fc32b2b19e7c",
+  "title": "Luigi (Super Mario Bros)"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.

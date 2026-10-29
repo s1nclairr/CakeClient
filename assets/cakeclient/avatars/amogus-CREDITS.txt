@@ -1,0 +1,5 @@
+among us dumpy
+casspog (https://sketchfab.com/casspog)
+https://sketchfab.com/3d-models/among-us-dumpy-f0c532f7ee5243b8acd1016bb3ce6532
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Changes: geometry decimated to 8000 triangles, source UV/material transferred; scaled for Cake. Source GLB bundled.

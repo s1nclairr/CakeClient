@@ -1,0 +1,8 @@
+{
+  "author": "ModusIntractive2 (https://sketchfab.com/ModusInteractive)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/hello-neighbor-walk-9b0bb682e82d4fbe82558b181526757e",
+  "title": "Hello-neighbor Walk"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.
+Neighbor textures from BillCipher987654321: https://sketchfab.com/3d-models/hello-neighbor-model-06d357fa696e4e968f0c1d9ff321bbfc (CC BY 4.0).

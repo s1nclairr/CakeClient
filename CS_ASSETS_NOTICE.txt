@@ -1,0 +1,39 @@
+CS ASSET SOURCES — Cake Client 6.4
+
+The 22 selected meshes and per-knife skeletal clips come from the original
+CS2 exports published at https://github.com/zh667/ScCsgoKnives .
+The exact upstream commit, source file paths, clip names, inspection events
+and SHA-256 hashes are in assets/cakeclient/knives/animation-provenance-v7.json.
+Upstream declares GPL-3.0. Its full license and unmodified tables/meshes are
+included in tools/original-cs in META-INF/cakeclient-project.zip.
+No upstream implementation code is incorporated. Cake's parser, converter,
+rendering and native Minecraft arm adapter are independently written.
+
+Counter-Strike models, materials and clips retain Valve and respective
+creator rights; they are not covered by Cake code's MIT license. Cake Client
+is unofficial and is not endorsed by Valve. The 16 procedural Cake silhouettes
+from 6.2 have been replaced, not renamed or passed off as original assets.
+
+The four existing 2048 material sets retain their Craftprofit sources:
+https://craftprofit.top/3d/skins3d.json
+https://craftprofit.top/3d/w/knife_{karambit,butterfly,bayonet,bowie}_{color,rough,metal,ao}
+Other entries use the unscaled CS2 color and ORM textures from upstream's
+Assets/Textures/ScCsgoKnives. ORM channels are packed as Roughness/Metalness/AO
+for Cake's shader. No fabricated textures or generated silhouettes are used
+for the new knives. Preview images render these genuine meshes/materials.
+
+Original source data is included. Smooth quaternion interpolation
+keeps each moving part rigid. A camera framing translation keeps the support
+fist visible; the left Shadow Dagger gets the same correction to retain grip.
+The cubic Minecraft arms are retargeted for
+grip and visibility and cannot reproduce CS2 finger articulation. Holding G
+on Butterfly joins the original intro/outro sequences at their exported
+inspection pause markers. This sequencing is a Cake control feature.
+
+6.4 adds a fixed 180-degree grip correction to the right Shadow Dagger,
+about its source weapon anchor. Original input geometry/clips remain bundled.
+
+6.5 audio: 61 original Counter-Strike recordings from https://github.com/sourcesounds/csgo .
+Pinned revision, Git blob hashes and converted OGG hashes in tools/original-cs/audio/provenance.json.
+Original WAVs are included with source; these recordings retain their respective owners' rights.
+Legacy CS recordings are mapped to identified action events; this is not a complete CS2 audio extraction.

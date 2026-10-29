@@ -1,0 +1,156 @@
+[
+  {
+    "pack": 1,
+    "path": "entity/end_crystal/end_crystal.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "cea0fb6187fbe51fcfe7efee172e0309a8355e0d66309e5eb6b021381370b6f2"
+  },
+  {
+    "pack": 1,
+    "path": "item/mace.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "bde9e5672af0b6ff164e43a564cc445113db6e447691404b10dec99d195c06e6"
+  },
+  {
+    "pack": 1,
+    "path": "item/totem_of_undying.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "68438116516765a3678d34910e8b72926f3908c94c8d75c48e35d9085a0460ff"
+  },
+  {
+    "pack": 1,
+    "path": "block/obsidian.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "99786c5049d698eff2bb5617be72b26c9b5aada4d54aa52705482a778b04bb81"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_top.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "fe6ea6f7efe5483807558c8a89792a7ba928e8a537a7af095f8ea7b67e425888"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_side0.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "4dff1a279fd8cb3579b94e319a4ff0557ddde9921a4d0266b84c3bd5ce59f364"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_side1.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "33a6d6a40ebb4b025a4284d8ab79fe387b3088f89236d17138d7ab64ef7f16ff"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_side2.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "25755d9b497cc0cb32f9cf79c344fcbc1b4cfc6980a3026d8a5254261c0bf241"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_side3.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "db0151c41e9666125cf88a1c414b7a7fe63d8182d0812fc856de02db15c4ed1a"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_side4.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "e78dd80893c087766b55a5c69f504e5e8b8426df59b49cc6ec0feca0b01b1342"
+  },
+  {
+    "pack": 1,
+    "path": "block/respawn_anchor_bottom.png",
+    "repository": "Faithful-Resource-Pack/Faithful-32x-Java",
+    "commit": "9664415d9462257f9580e97783edacd5d1eaaaf5",
+    "sha256": "65a5f73ca02e17bee8fc5a60552e0ff9609d49634674c9b82f8477d229587a28"
+  },
+  {
+    "pack": 2,
+    "path": "entity/end_crystal/end_crystal.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "16047ab2a84fe5c2fc18f43a27f722211579ac54542f76c54427555bfb4affad"
+  },
+  {
+    "pack": 2,
+    "path": "item/mace.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "10508aa642f5d03eb48725357af8375c787b911ae64f6ed8e8b3b09b039439f1"
+  },
+  {
+    "pack": 2,
+    "path": "item/totem_of_undying.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "5a4a1ebc78c3689d30233ca646c5b87ac6f516d3247240615aeb135cd9b60298"
+  },
+  {
+    "pack": 2,
+    "path": "block/obsidian.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "be4b85cb8403bebbbfd21a6178b22aecbc3200175fe71c5f1747089b4f63f081"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_top.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "33e69d5c989b9f4309adb7f96046b7abccf1b1c30d4297c6ddc8a7b86a332a89"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_side0.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "c742dc99d84a7a566ff2fae393f9dbade38667c49f071b570112031351714282"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_side1.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "e75701202c20b029bb0ee943b8029eddf20f3c811a7ef492f6a22eb9deb1028f"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_side2.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "a878b3c594f4eec3b95a9f9c668ee1814229cb24648e08ba9e3bcc4de5147c9b"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_side3.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "2c82f87e97f820b80ecea28ed78de25d2eb827d451b50118264ee8e6e2dfa7db"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_side4.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "892329e5a4b15ca06b085a771e2c5609c15e8702d4f5360f1467ff41996eef5b"
+  },
+  {
+    "pack": 2,
+    "path": "block/respawn_anchor_bottom.png",
+    "repository": "Faithful-Resource-Pack/Faithful-64x-Java",
+    "commit": "aca1d9715ae301deacbe590a99797d29a5253518",
+    "sha256": "4dffb28de5cf8b512f20a81f940f69c1b2fd4150f3325a67ca874d4430432f9c"
+  }
+]

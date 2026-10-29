@@ -1,0 +1,7 @@
+{
+  "author": "Anthony Yanez (https://sketchfab.com/paulyanez)",
+  "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+  "source": "https://sketchfab.com/3d-models/patrick-star-spongebob-02de99ecb51c486891f6438149e7e3cd",
+  "title": "Patrick Star (Spongebob)"
+}
+Changes: converted with original mesh, UV, material artwork and skinning; normalized for Cake. Idle freezes an author frame; available motion retains original clip.
