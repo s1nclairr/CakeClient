@@ -8,7 +8,7 @@ echo ==========================================
 echo.
 
 :: Use the existing Gradle installation
-set GRADLE_CMD="C:\Users\kcxny\.gradle\wrapper\dists\gradle-9.6.0-bin\42k10rwplmzkhuboz9kdazi7s\gradle-9.6.0\bin\gradle"
+set GRADLE_CMD=".gradle\wrapper\dists\gradle-9.6.0-bin\42k10rwplmzkhuboz9kdazi7s\gradle-9.6.0\bin\gradle"
 
 echo Using Gradle from: %GRADLE_CMD%
 echo.
